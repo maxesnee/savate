@@ -12,32 +12,8 @@ fontbakery version: 0.13.2
 
 
 
-<details><summary>[22] Savate[wght].ttf</summary>
+<details><summary>[21] Savate[wght].ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with TypeError: '&gt;' not supported between instances of 'NoneType' and 'int'</p>
-<pre><code>  File &quot;/home/runner/work/savate/savate/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py&quot;, line 222, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/runner/work/savate/savate/venv-test/lib/python3.10/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#case-mapping">case_mapping</a></summary>
     <div>
@@ -392,6 +368,46 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to A when shaping the text 'A̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Aacute when shaping the text 'Á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to agrave when shaping the text 'à̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Agrave when shaping the text 'À̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to amacron when shaping the text 'ā̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Amacron when shaping the text 'Ā̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to a when shaping the text 'a̧̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to A when shaping the text 'A̧̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to uni025B when shaping the text 'ɛ́'</td>
 <td align="left"></td>
 </tr>
@@ -445,6 +461,62 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni030D to uni0190 when shaping the text 'Ɛ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to iacute when shaping the text 'í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to iacute when shaping the text 'í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to igrave when shaping the text 'ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to igrave when shaping the text 'ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Igrave when shaping the text 'Ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Igrave when shaping the text 'Ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to imacron when shaping the text 'ī̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to imacron when shaping the text 'ī̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Imacron when shaping the text 'Ī̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Imacron when shaping the text 'Ī̧'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -533,6 +605,22 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni030D to uni0186 when shaping the text 'Ɔ̍'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to umacron when shaping the text 'ū̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Umacron when shaping the text 'Ū̧'</td>
 <td align="left">dow_Latn (Doyayo)</td>
 </tr>
 <tr>
@@ -540,7 +628,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɤ́, Ɤ̏, ɤ̀, ɤ, Ɤ̄, ɤ̂, ɤ́, Ɤ, ɤ̏, Ɤ̂, Ɤ̀, ɤ̋, Ɤ̋, ɤ̄</td>
+<td align="left">The following base characters are missing from the font: Ɤ̂, Ɤ̄, ɤ̄, ɤ̀, ɤ̋, ɤ̏, ɤ́, ɤ̂, Ɤ̏, Ɤ̋, Ɤ, ɤ, Ɤ̀, Ɤ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -872,11 +960,67 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Aacute when shaping the text 'Á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to iacute when shaping the text 'í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to uni0254 when shaping the text 'ɔ́'</td>
 <td align="left"></td>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to uni0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uacute when shaping the text 'ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Uacute when shaping the text 'Ú̧'</td>
 <td align="left">kzr_Latn (Karang)</td>
 </tr>
 <tr>
@@ -1169,6 +1313,38 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni030C to uni0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01D2 when shaping the text 'ǒ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01D1 when shaping the text 'Ǒ̧'</td>
 <td align="left">mcp_Latn (Makaa)</td>
 </tr>
 <tr>
@@ -1336,6 +1512,30 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to A when shaping the text 'A̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Aacute when shaping the text 'Á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to acircumflex when shaping the text 'â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex when shaping the text 'Â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to uni025B when shaping the text 'ɛ́'</td>
 <td align="left"></td>
 </tr>
@@ -1392,6 +1592,54 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to iacute when shaping the text 'í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to icircumflex when shaping the text 'î̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex when shaping the text 'Î̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to uni0254 when shaping the text 'ɔ́'</td>
 <td align="left"></td>
 </tr>
@@ -1445,6 +1693,30 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni0302 to uni0327 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uacute when shaping the text 'ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Uacute when shaping the text 'Ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ucircumflex when shaping the text 'û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex when shaping the text 'Û̧'</td>
 <td align="left">pnz_Latn (Pana, Central African Republic)</td>
 </tr>
 <tr>
@@ -1636,6 +1908,30 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to A when shaping the text 'A̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to agrave when shaping the text 'à̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Agrave when shaping the text 'À̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Aacute when shaping the text 'Á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach gravecomb to uni0259 when shaping the text 'ə̀'</td>
 <td align="left"></td>
 </tr>
@@ -1684,6 +1980,54 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to igrave when shaping the text 'ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Igrave when shaping the text 'Ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to iacute when shaping the text 'í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ograve when shaping the text 'ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ograve when shaping the text 'Ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach gravecomb to uni0254 when shaping the text 'ɔ̀'</td>
 <td align="left"></td>
 </tr>
@@ -1697,6 +2041,30 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to uni0186 when shaping the text 'Ɔ́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ugrave when shaping the text 'ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ugrave when shaping the text 'Ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uacute when shaping the text 'ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Uacute when shaping the text 'Ú̧'</td>
 <td align="left">dur_Latn (Dii)</td>
 </tr>
 <tr>
@@ -1956,7 +2324,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɤ́, ɤ, ɤ̂, Ɤ, Ɤ̂, ɤ́, Ɤ̀, ɤ̀</td>
+<td align="left">The following base characters are missing from the font: ɤ́, ɤ̂, ɤ, Ɤ̀, Ɤ́, ɤ̀, Ɤ, Ɤ̂</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2292,6 +2660,10 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to uni025B when shaping the text 'ɛ́'</td>
 <td align="left"></td>
 </tr>
@@ -2305,6 +2677,10 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni0327 to uni025B when shaping the text 'ɛ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to i when shaping the text 'i̧'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2324,6 +2700,14 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to A when shaping the text 'A̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to uni0190 when shaping the text 'Ɛ́'</td>
 <td align="left"></td>
 </tr>
@@ -2340,6 +2724,10 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach acutecomb to uni0186 when shaping the text 'Ɔ́'</td>
 <td align="left"></td>
 </tr>
@@ -2353,6 +2741,10 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni0327 to uni0186 when shaping the text 'Ɔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to U when shaping the text 'U̧'</td>
 <td align="left">kkj_Latn (Kako)</td>
 </tr>
 <tr>
@@ -2544,7 +2936,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ꟈ, Ꟈ</td>
+<td align="left">The following base characters are missing from the font: Ꟈ, ꟈ</td>
 <td align="left">mor_Latn (Moro)</td>
 </tr>
 <tr>
@@ -3128,6 +3520,38 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to A when shaping the text 'A̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to agrave when shaping the text 'à̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Agrave when shaping the text 'À̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to acircumflex when shaping the text 'â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex when shaping the text 'Â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01CE when shaping the text 'ǎ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01CD when shaping the text 'Ǎ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach gravecomb to uni0259 when shaping the text 'ə̀'</td>
 <td align="left"></td>
 </tr>
@@ -3137,6 +3561,70 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni030C to uni0259 when shaping the text 'ə̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ograve when shaping the text 'ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ograve when shaping the text 'Ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01D2 when shaping the text 'ǒ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01D1 when shaping the text 'Ǒ̧'</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3217,6 +3705,38 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni030C to uni0327 when shaping the text 'Ɔ̧̌'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ugrave when shaping the text 'ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ugrave when shaping the text 'Ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ucircumflex when shaping the text 'û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex when shaping the text 'Û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01D4 when shaping the text 'ǔ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni01D3 when shaping the text 'Ǔ̧'</td>
 <td align="left">mnf_Latn (Mundani)</td>
 </tr>
 <tr>
@@ -3668,6 +4188,38 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to a when shaping the text 'a̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to A when shaping the text 'A̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to aacute when shaping the text 'á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Aacute when shaping the text 'Á̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to agrave when shaping the text 'à̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Agrave when shaping the text 'À̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to acircumflex when shaping the text 'â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Acircumflex when shaping the text 'Â̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach uni0327 to uni0259 when shaping the text 'ə̧'</td>
 <td align="left"></td>
 </tr>
@@ -3724,6 +4276,102 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
+<td align="left">Shaper didn't attach uni0327 to i when shaping the text 'i̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to I when shaping the text 'I̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to iacute when shaping the text 'í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Iacute when shaping the text 'Í̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to igrave when shaping the text 'ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Igrave when shaping the text 'Ì̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to icircumflex when shaping the text 'î̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Icircumflex when shaping the text 'Î̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧́'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧̀'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0268 when shaping the text 'ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uni0197 when shaping the text 'Ɨ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to O when shaping the text 'O̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to oacute when shaping the text 'ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Oacute when shaping the text 'Ó̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ograve when shaping the text 'ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ograve when shaping the text 'Ò̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ocircumflex when shaping the text 'ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ocircumflex when shaping the text 'Ô̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
 <td align="left">Shaper didn't attach uni0327 to uni0254 when shaping the text 'ɔ̧'</td>
 <td align="left"></td>
 </tr>
@@ -3777,6 +4425,38 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 </tr>
 <tr>
 <td align="left">Shaper didn't attach uni0302 to uni0327 when shaping the text 'Ɔ̧̂'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to u when shaping the text 'u̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to U when shaping the text 'U̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to uacute when shaping the text 'ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Uacute when shaping the text 'Ú̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ugrave when shaping the text 'ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ugrave when shaping the text 'Ù̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to ucircumflex when shaping the text 'û̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to Ucircumflex when shaping the text 'Û̧'</td>
 <td align="left">vut_Latn (Vute)</td>
 </tr>
 <tr>
@@ -3996,7 +4676,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: T͟H, t͟h</td>
+<td align="left">The following base characters are missing from the font: t͟h, T͟H</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5156,7 +5836,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ᶤ, ᵒ, ᵋ, ᵉ, ᶶ, ᵓ, ⁱ, ᵃ</td>
+<td align="left">The following base characters are missing from the font: ᵒ, ᵃ, ⁱ, ᶶ, ᵋ, ᵉ, ᶤ, ᵓ</td>
 <td align="left">teo_Latn (Teso)</td>
 </tr>
 <tr>
@@ -5713,6 +6393,18 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <tr>
 <td align="left">Shaper didn't attach acutecomb to uni0328 when shaping the text 'Ɔ̨́'</td>
 <td align="left">gkp_Latn (Kpelle, Guinea)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to o when shaping the text 'o̧'</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Shaper didn't attach uni0327 to O when shaping the text 'O̧'</td>
+<td align="left">neb_Latn (Toura)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
@@ -6470,19 +7162,7 @@ The font may be embedded but must only be installed temporarily on other systems
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 start point differs in glyph 'uni019A' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'uni019A': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 start point differs in glyph 'asterisk' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'asterisk': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
+<pre><code>- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
 
 - Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
 
@@ -6495,6 +7175,10 @@ The font may be embedded but must only be installed temporarily on other systems
 - Contour 2 in glyph 'uni026A': becomes underweight between wght=200 and wght=593.
 
 - Contour order differs in glyph 'uni026A': [0, 1, 2] in wght=593, [0, 2, 1] in wght=900.
+
+- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
+
+- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
 </code></pre>
  [code: interpolation-issues]
 
@@ -6647,23 +7331,23 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, cherokee, tifinagh</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, canadian-aboriginal, math, coptic, old-permic, malayalam, todhri, duployan, hebrew, syriac</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, malayalam, coptic, hebrew, tifinagh, duployan, canadian-aboriginal, old-permic, math, todhri, syriac</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: try adding one of: math, sunuwar</li>
-<li>U+0311 COMBINING INVERTED BREVE: try adding one of: todhri, coptic</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0313 COMBINING COMMA ABOVE: try adding one of: old-permic, todhri</li>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: try adding math</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, duployan, syriac</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee, duployan</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
@@ -6671,18 +7355,18 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, thai, tifinagh, caucasian-albanian, sunuwar, cherokee, syriac</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, cherokee, tifinagh, thai, sunuwar, caucasian-albanian, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, math, elbasan</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: math, elbasan, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, elbasan, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
 <li>U+1DC6 COMBINING MACRON-GRAVE: not included in any glyphset definition</li>
@@ -6788,21 +7472,23 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>The following glyphs have on-curve points which have potentially incorrect y coordinates:</p>
-<pre><code>* uni1E00 (U+1E00): X=336.0,Y=-195.0 (should be at descender -196?)
+<pre><code>* uni2C6D (U+2C6D): X=740.5,Y=2.0 (should be at baseline 0?)
 
 * uni1E00 (U+1E00): X=336.0,Y=-195.0 (should be at descender -196?)
 
-* uni0191 (U+0191): X=-11.0,Y=-197.0 (should be at descender -196?)
+* uni1E00 (U+1E00): X=336.0,Y=-195.0 (should be at descender -196?)
+
+* uni0191 (U+0191): X=-14.0,Y=-195.5 (should be at descender -196?)
 
 * uni1E2A (U+1E2A): X=359.0,Y=-195.0 (should be at descender -196?)
 
 * uni1E2A (U+1E2A): X=359.0,Y=-195.0 (should be at descender -196?)
 
-* uniA726 (U+A726): X=627.0,Y=2.0 (should be at baseline 0?)
+* uniA726 (U+A726): X=595.0,Y=-2.0 (should be at baseline 0?)
 
 * uni019D (U+019D): X=-11.0,Y=-197.0 (should be at descender -196?)
 
-* uni024A (U+024A): X=751.0,Y=-195.5 (should be at descender -196?)
+* uni024A (U+024A): X=752.0,Y=-194.5 (should be at descender -196?)
 
 * uni1E9E (U+1E9E): X=486.0,Y=732.0 (should be at cap-height 730?)
 
@@ -6815,6 +7501,10 @@ definitions.</p>
 * uni1E01 (U+1E01): X=262.0,Y=-195.0 (should be at descender -196?)
 
 * atilde (U+00E3): X=196.0,Y=732.0 (should be at cap-height 730?)
+
+* uni0253 (U+0253): X=219.5,Y=773.0 (should be at ascender 772?)
+
+* uni0257 (U+0257): X=619.5,Y=773.0 (should be at ascender 772?)
 
 * uni0256 (U+0256): X=605.5,Y=-195.5 (should be at descender -196?)
 
@@ -6844,6 +7534,8 @@ definitions.</p>
 
 * uni0260 (U+0260): X=431.5,Y=-1.0 (should be at baseline 0?)
 
+* uni0260 (U+0260): X=580.5,Y=773.0 (should be at ascender 772?)
+
 * uni0294 (U+0294): X=333.5,Y=730.5 (should be at cap-height 730?)
 
 * uni1E21 (U+1E21): X=431.5,Y=-1.0 (should be at baseline 0?)
@@ -6854,7 +7546,11 @@ definitions.</p>
 
 * uni1E2B (U+1E2B): X=276.0,Y=-195.0 (should be at descender -196?)
 
+* uni0266 (U+0266): X=219.5,Y=773.0 (should be at ascender 772?)
+
 * itilde (U+0129): X=16.0,Y=732.0 (should be at cap-height 730?)
+
+* uni0199 (U+0199): X=219.5,Y=773.0 (should be at ascender 772?)
 
 * uni019B (U+019B): X=-10.0,Y=729.0 (should be at cap-height 730?)
 
@@ -6868,11 +7564,15 @@ definitions.</p>
 
 * uni022D (U+022D): X=204.0,Y=732.0 (should be at cap-height 730?)
 
+* uni01A5 (U+01A5): X=219.5,Y=773.0 (should be at ascender 772?)
+
 * uni027D (U+027D): X=223.5,Y=-195.5 (should be at descender -196?)
 
-* utilde (U+0169): X=191.0,Y=732.0 (should be at cap-height 730?)
+* uni01AD (U+01AD): X=248.5,Y=773.0 (should be at ascender 772?)
 
-* uni1E79 (U+1E79): X=191.0,Y=732.0 (should be at cap-height 730?)
+* utilde (U+0169): X=193.0,Y=732.0 (should be at cap-height 730?)
+
+* uni1E79 (U+1E79): X=193.0,Y=732.0 (should be at cap-height 730?)
 
 * uni1E7D (U+1E7D): X=177.0,Y=732.0 (should be at cap-height 730?)
 
@@ -6894,9 +7594,9 @@ definitions.</p>
 
 * asterisk (U+002A): X=200.0,Y=731.5 (should be at cap-height 730?)
 
-* braceleft (U+007B): X=386.0,Y=774.0 (should be at ascender 772?)
+* braceleft (U+007B): X=391.0,Y=774.0 (should be at ascender 772?)
 
-* braceright (U+007D): X=70.0,Y=774.0 (should be at ascender 772?)
+* braceright (U+007D): X=65.0,Y=774.0 (should be at ascender 772?)
 
 * quotedbl (U+0022): X=103.5,Y=730.5 (should be at cap-height 730?)
 
@@ -6988,7 +7688,7 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 1 | 0 | 10 | 11 | 91 | 7 | 116 | 0 | 
+| 0 | 0 | 10 | 11 | 91 | 8 | 116 | 0 | 
 | 0% | 0% | 4% | 5% | 39% | 3% | 49% | 0% | 
 
 
