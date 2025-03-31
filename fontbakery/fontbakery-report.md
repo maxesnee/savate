@@ -12,8 +12,32 @@ fontbakery version: 0.13.2
 
 
 
-<details><summary>[21] Savate[wght].ttf</summary>
+<details><summary>[22] Savate[wght].ttf</summary>
 <div>
+<details>
+    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
+    <div>
+
+
+
+
+
+
+
+* 💥 **ERROR** <p>Failed with TypeError: '&gt;' not supported between instances of 'NoneType' and 'int'</p>
+<pre><code>  File &quot;/home/runner/work/savate/savate/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py&quot;, line 222, in _run_check
+    subresults = list(subresults)
+  File &quot;/home/runner/work/savate/savate/venv-test/lib/python3.10/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
+    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
+
+</code></pre>
+ [code: failed-check]
+
+
+
+</div>
+</details>
+
 <details>
     <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#case-mapping">case_mapping</a></summary>
     <div>
@@ -516,7 +540,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ɤ̋, Ɤ̋, Ɤ̀, Ɤ̄, Ɤ, ɤ̄, Ɤ̏, ɤ̀, ɤ, ɤ̏, ɤ́, Ɤ́, Ɤ̂, ɤ̂</td>
+<td align="left">The following base characters are missing from the font: Ɤ́, Ɤ̏, ɤ̀, ɤ, Ɤ̄, ɤ̂, ɤ́, Ɤ, ɤ̏, Ɤ̂, Ɤ̀, ɤ̋, Ɤ̋, ɤ̄</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1932,7 +1956,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɤ̀, Ɤ̂, ɤ̂, ɤ, Ɤ, Ɤ́, ɤ̀, ɤ́</td>
+<td align="left">The following base characters are missing from the font: Ɤ́, ɤ, ɤ̂, Ɤ, Ɤ̂, ɤ́, Ɤ̀, ɤ̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -3972,7 +3996,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: t͟h, T͟H</td>
+<td align="left">The following base characters are missing from the font: T͟H, t͟h</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -5132,7 +5156,7 @@ For Google Fonts, all messages from this check are considered FAILs.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ᵃ, ᶤ, ⁱ, ᶶ, ᵋ, ᵒ, ᵓ, ᵉ</td>
+<td align="left">The following base characters are missing from the font: ᶤ, ᵒ, ᵋ, ᵉ, ᶶ, ᵓ, ⁱ, ᵃ</td>
 <td align="left">teo_Latn (Teso)</td>
 </tr>
 <tr>
@@ -6446,21 +6470,21 @@ The font may be embedded but must only be installed temporarily on other systems
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 start point differs in glyph 'uni019A' between location wght=200 and location wght=593
+<pre><code>- Contour 0 start point differs in glyph 'uni019A' between location wght=200 and location wght=593
 
 - Contour 0 in glyph 'uni019A': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
 
 - Contour 0 start point differs in glyph 'asterisk' between location wght=200 and location wght=593
 
 - Contour 0 in glyph 'asterisk': becomes underweight between wght=200 and wght=593.
+
+- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
+
+- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
+
+- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
+
+- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
 
 - Contour 1 start point differs in glyph 'uni026A' between location wght=200 and location wght=593
 
@@ -6623,23 +6647,23 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, tifinagh, syriac, coptic, math, tai-le, todhri, duployan, canadian-aboriginal, malayalam, old-permic</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, canadian-aboriginal, math, coptic, old-permic, malayalam, todhri, duployan, hebrew, syriac</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: try adding one of: math, sunuwar</li>
-<li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding one of: todhri, coptic</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
-<li>U+0313 COMBINING COMMA ABOVE: try adding one of: todhri, old-permic</li>
+<li>U+0313 COMBINING COMMA ABOVE: try adding one of: old-permic, todhri</li>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: try adding math</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, cherokee, syriac</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, duployan, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
@@ -6647,18 +6671,18 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: sunuwar, tifinagh, syriac, caucasian-albanian, gothic, thai, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, thai, tifinagh, caucasian-albanian, sunuwar, cherokee, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: math, elbasan, greek</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, elbasan, greek</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: greek, math, elbasan</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: greek, math, elbasan</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
 <li>U+1DC6 COMBINING MACRON-GRAVE: not included in any glyphset definition</li>
@@ -6964,7 +6988,7 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 10 | 11 | 91 | 8 | 116 | 0 | 
+| 1 | 0 | 10 | 11 | 91 | 7 | 116 | 0 | 
 | 0% | 0% | 4% | 5% | 39% | 3% | 49% | 0% | 
 
 
