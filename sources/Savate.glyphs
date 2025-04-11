@@ -304,6 +304,40 @@ fontMaster = (
 axesValues = (
 100
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -285;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1200;
+},
+{
+name = winDescent;
+value = 390;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -285;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 iconName = Light;
 id = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
 metricValues = (
@@ -338,6 +372,40 @@ GSOffsetVertical = 22;
 {
 axesValues = (
 900
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -285;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1200;
+},
+{
+name = winDescent;
+value = 390;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -285;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
 );
 iconName = Bold;
 id = "41EDA971-A137-4972-81AF-7929AB7CAABF";
