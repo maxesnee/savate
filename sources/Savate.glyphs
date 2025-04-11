@@ -2,8 +2,7 @@
 .appVersion = "3409";
 .formatVersion = 3;
 DisplayStrings = (
-"ƶ",
-"ɑ"
+"ƶ"
 );
 axes = (
 {
