@@ -87767,7 +87767,7 @@ Location = 200;
 instanceInterpolations = {
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 1;
 };
-name = Extralight;
+name = ExtraLight;
 weightClass = 200;
 },
 {
@@ -87899,7 +87899,7 @@ instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 0.875;
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 0.125;
 };
-name = Extrabold;
+name = ExtraBold;
 weightClass = 800;
 },
 {
