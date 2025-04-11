@@ -18,6 +18,15 @@ customParameters = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Variable Font Origin";
+value = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
 }
 );
 date = "2021-06-03 13:53:52 +0000";
@@ -146,6 +155,49 @@ fontMaster = (
 axesValues = (
 100
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -285;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1200;
+},
+{
+name = winDescent;
+value = 390;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -285;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
+}
+);
 iconName = Light;
 id = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
 metricValues = (
@@ -184,6 +236,49 @@ GSOffsetVertical = -1;
 {
 axesValues = (
 900
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -285;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1200;
+},
+{
+name = winDescent;
+value = 390;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -285;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
 );
 iconName = Bold;
 id = "41EDA971-A137-4972-81AF-7929AB7CAABF";
@@ -74806,20 +74901,44 @@ instances = (
 axesValues = (
 100
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
+}
+);
 instanceInterpolations = {
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 1;
 };
-name = "Extralight Italic";
+isItalic = 1;
+name = "ExtraLight Italic";
 weightClass = 200;
 },
 {
 axesValues = (
 200
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+}
+);
 instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 0.125;
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 0.875;
 };
+isItalic = 1;
 name = "Light Italic";
 weightClass = 300;
 },
@@ -74827,20 +74946,44 @@ weightClass = 300;
 axesValues = (
 350
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 0.3125;
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 0.6875;
 };
+isItalic = 1;
 name = Italic;
 },
 {
 axesValues = (
 450
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
 instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 0.4375;
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 0.5625;
 };
+isItalic = 1;
 name = "Medium Italic";
 weightClass = 500;
 },
@@ -74848,10 +74991,22 @@ weightClass = 500;
 axesValues = (
 550
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 0.5625;
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 0.4375;
 };
+isItalic = 1;
 name = "SemiBold Italic";
 weightClass = 600;
 },
@@ -74859,11 +75014,23 @@ weightClass = 600;
 axesValues = (
 700
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
+);
 instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 0.75;
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 0.25;
 };
 isBold = 1;
+isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
 weightClass = 700;
@@ -74872,20 +75039,44 @@ weightClass = 700;
 axesValues = (
 800
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
 instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 0.875;
 "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33" = 0.125;
 };
-name = "Extrabold Italic";
+isItalic = 1;
+name = "ExtraBold Italic";
 weightClass = 800;
 },
 {
 axesValues = (
 900
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
+);
 instanceInterpolations = {
 "41EDA971-A137-4972-81AF-7929AB7CAABF" = 1;
 };
+isItalic = 1;
 name = "Black Italic";
 weightClass = 900;
 }
@@ -74936,6 +75127,19 @@ key = designerURL;
 value = "www.max-esnee.com";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -74943,6 +75147,10 @@ language = dflt;
 value = "Plomb Type";
 }
 );
+},
+{
+key = manufacturerURL;
+value = "https://plombtype.com/";
 }
 );
 settings = {
