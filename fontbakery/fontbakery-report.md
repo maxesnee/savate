@@ -422,7 +422,7 @@ fontbakery version: 0.13.2
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ɤ̏, Ɤ̂, Ɤ̄, Ɤ̋, Ɤ̀, ɤ̋, ɤ́, ɤ̂, Ɤ́, ɤ̀, ɤ̄, Ɤ, Ɤ̏, ɤ</td>
+<td align="left">The following base characters are missing from the font: Ɤ́, ɤ̏, ɤ̋, ɤ̂, Ɤ̀, ɤ̀, ɤ̄, Ɤ̋, Ɤ̏, ɤ, Ɤ̂, Ɤ, Ɤ̄, ɤ́</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -1666,7 +1666,7 @@ fontbakery version: 0.13.2
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ɤ̀, ɤ̂, ɤ, Ɤ, Ɤ̂, Ɤ̀, ɤ́, Ɤ́</td>
+<td align="left">The following base characters are missing from the font: Ɤ̀, Ɤ̂, ɤ, ɤ̂, Ɤ, Ɤ́, ɤ́, ɤ̀</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -2090,7 +2090,7 @@ fontbakery version: 0.13.2
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ꟈ, ꟈ</td>
+<td align="left">The following base characters are missing from the font: ꟈ, Ꟈ</td>
 <td align="left">mor_Latn (Moro)</td>
 </tr>
 <tr>
@@ -4082,7 +4082,7 @@ fontbakery version: 0.13.2
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ᶤ, ᵓ, ᵋ, ᵉ, ᶶ, ᵒ, ⁱ, ᵃ</td>
+<td align="left">The following base characters are missing from the font: ᵋ, ᵓ, ᵉ, ᵃ, ᶤ, ᵒ, ⁱ, ᶶ</td>
 <td align="left">teo_Latn (Teso)</td>
 </tr>
 <tr>
@@ -4184,6 +4184,14 @@ fontbakery version: 0.13.2
 </tr>
 </thead>
 <tbody>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ſ</td>
+<td align="left">de_Latn (German) and fr_Latn (French)</td>
+</tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
 <td align="left"></td>
@@ -4928,79 +4936,9 @@ fontbakery version: 0.13.2
 <td align="left">Shaper didn't attach dotbelowcomb to g when shaping the text 'g̣'</td>
 <td align="left">tuq_Latn (Tedaga)</td>
 </tr>
-<tr>
-<td align="left">Auxiliary orthography codepoints:</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">The following auxiliary characters are missing from the font: ſ</td>
-<td align="left">de_Latn (German) and fr_Latn (French)</td>
-</tr>
 </tbody>
 </table>
  [code: warning-language-shaping]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Check Google Fonts glyph coverage. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.html#googlefonts-glyph-coverage">googlefonts/glyph_coverage</a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>Missing required codepoints:</p>
-<pre><code>- 0x0025 (PERCENT SIGN)
-
-
-- 0x002B (PLUS SIGN)
-
-
-- 0x003C (LESS-THAN SIGN)
-
-
-- 0x003D (EQUALS SIGN)
-
-
-- 0x003E (GREATER-THAN SIGN)
-
-
-- 0x005E (CIRCUMFLEX ACCENT)
-
-
-- 0x007C (VERTICAL LINE)
-
-
-- 0x007E (TILDE)
-
-
-- 0x00A9 (COPYRIGHT SIGN)
-
-
-- 0x00AE (REGISTERED SIGN)
-
-
-- 0x00B0 (DEGREE SIGN)
-
-
-- 0x00D7 (MULTIPLICATION SIGN)
-
-
-- 0x00F7 (DIVISION SIGN)
-
-
-- 0x2122 (TRADE MARK SIGN)
-
-
-- 0x2212 (MINUS SIGN)
-</code></pre>
- [code: missing-codepoints]
 
 
 
@@ -5038,31 +4976,7 @@ fontbakery version: 0.13.2
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour order differs in glyph 'idieresis': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
-
-- Contour order differs in glyph 'uni0324': [0, 1] in wght=200, [1, 0] in wght=593.
-
-- Contour order differs in glyph 'uni0308.case': [0, 1] in wght=200, [1, 0] in wght=593.
-
-- Contour order differs in glyph 'udieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
-
-- Contour 0 start point differs in glyph 'asterisk' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'asterisk': becomes underweight between wght=200 and wght=593.
-
-- Contour order differs in glyph 'odieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
-
-- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
-
-- Contour order differs in glyph 'adieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
-
-- Contour order differs in glyph 'uni0308': [0, 1] in wght=200, [1, 0] in wght=593.
-
-- Contour order differs in glyph 'ydieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
-
-- Contour order differs in glyph 'uni018E': [0, 1, 2, 3] in wght=200, [2, 1, 3, 0] in wght=593.
+<pre><code>- Contour order differs in glyph 'uni018E': [0, 1, 2, 3] in wght=200, [2, 1, 3, 0] in wght=593.
 
 - Contour 0 start point differs in glyph 'uni018E' between location wght=200 and location wght=593
 
@@ -5074,6 +4988,24 @@ fontbakery version: 0.13.2
 
 - Contour 3 start point differs in glyph 'uni018E' between location wght=200 and location wght=593
 
+- Contour order differs in glyph 'ydieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
+
+- Contour 0 start point differs in glyph 'asterisk' between location wght=200 and location wght=593
+
+- Contour 0 in glyph 'asterisk': becomes underweight between wght=200 and wght=593.
+
+- Contour order differs in glyph 'uni0324': [0, 1] in wght=200, [1, 0] in wght=593.
+
+- Contour order differs in glyph 'udieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
+
+- Contour order differs in glyph 'odieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
+
+- Contour order differs in glyph 'tbar': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
+
+- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=200, [1, 0] in wght=593.
+
+- Contour order differs in glyph 'uni0243': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
+
 - Contour 1 start point differs in glyph 'uni026A' between location wght=200 and location wght=593
 
 - Contour 1 in glyph 'uni026A': becomes underweight between wght=200 and wght=593.
@@ -5084,9 +5016,23 @@ fontbakery version: 0.13.2
 
 - Contour order differs in glyph 'uni026A': [0, 1, 2] in wght=593, [0, 2, 1] in wght=900.
 
+- Contour order differs in glyph 'uni0308': [0, 1] in wght=200, [1, 0] in wght=593.
+
+- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
+
+- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
+
 - Contour order differs in glyph 'wdieresis': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
 
-- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=200, [1, 0] in wght=593.
+- Contour order differs in glyph 'uni0308.case': [0, 1] in wght=200, [1, 0] in wght=593.
+
+- Contour order differs in glyph 'adieresis': [0, 1, 2, 3] in wght=200, [0, 1, 3, 2] in wght=593.
+
+- Contour order differs in glyph 'uni20BA': [0, 1, 2, 3] in wght=200, [0, 2, 1, 3] in wght=593.
+
+- Contour order differs in glyph 'uni20BD': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
+
+- Contour order differs in glyph 'idieresis': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
 
 - Contour order differs in glyph 'edieresis': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
 </code></pre>
@@ -5108,65 +5054,43 @@ fontbakery version: 0.13.2
 
 
 * ⚠️ **WARN** <p>The following glyphs could not be reached by codepoint or substitution rules:</p>
-<pre><code>- _N.alt
-
-- dotlessi_ogonek
-
-- eight.dnom
+<pre><code>- dotlessi_ogonek
 
 - eight.numr
 
 - eight.osf
 
-- five.dnom
-
 - five.numr
 
 - five.osf
-
-- four.dnom
 
 - four.numr
 
 - four.osf
 
-- nine.dnom
-
 - nine.numr
 
 - nine.osf
-
-- one.dnom
 
 - one.numr
 
 - one.osf
 
-- seven.dnom
-
 - seven.numr
 
 - seven.osf
-
-- six.dnom
 
 - six.numr
 
 - six.osf
 
-- three.dnom
-
 - three.numr
 
 - three.osf
 
-- two.dnom
-
 - two.numr
 
 - two.osf
-
-- zero.dnom
 
 - zero.numr
 
@@ -5216,20 +5140,20 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, todhri, duployan, tai-le, malayalam, coptic, syriac, tifinagh, hebrew, math</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: syriac, coptic, todhri, canadian-aboriginal, math, old-permic, duployan, malayalam, tai-le, hebrew, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: try adding one of: math, sunuwar</li>
-<li>U+0311 COMBINING INVERTED BREVE: try adding one of: todhri, coptic</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0313 COMBINING COMMA ABOVE: try adding one of: old-permic, todhri</li>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: try adding math</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, syriac, cherokee</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, duployan, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
@@ -5237,20 +5161,21 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, cherokee, syriac, tifinagh, thai, gothic, sunuwar</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: syriac, thai, gothic, caucasian-albanian, sunuwar, cherokee, tifinagh</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: math, greek, elbasan</li>
-<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: math, greek, elbasan</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: math, greek, elbasan</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, greek, elbasan</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
+<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: elbasan, math, greek</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
+<li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
 <li>U+1DC6 COMBINING MACRON-GRAVE: not included in any glyphset definition</li>
@@ -5276,6 +5201,8 @@ definitions.</p>
 <li>U+1EE5 LATIN SMALL LETTER U WITH DOT BELOW: try adding vietnamese</li>
 <li>U+2003 EM SPACE: try adding nushu</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
+<li>U+2021 DOUBLE DAGGER: try adding adlam</li>
+<li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+2070 SUPERSCRIPT ZERO: try adding math</li>
 <li>U+2074 SUPERSCRIPT FOUR: try adding math</li>
 <li>U+2075 SUPERSCRIPT FIVE: try adding math</li>
@@ -5295,13 +5222,52 @@ definitions.</p>
 <li>U+2088 SUBSCRIPT EIGHT: try adding math</li>
 <li>U+2089 SUBSCRIPT NINE: try adding math</li>
 <li>U+2144 TURNED SANS-SERIF CAPITAL Y: try adding math</li>
+<li>U+2153 VULGAR FRACTION ONE THIRD: try adding symbols</li>
+<li>U+2154 VULGAR FRACTION TWO THIRDS: try adding symbols</li>
 <li>U+215B VULGAR FRACTION ONE EIGHTH: try adding symbols</li>
 <li>U+215C VULGAR FRACTION THREE EIGHTHS: try adding symbols</li>
 <li>U+215D VULGAR FRACTION FIVE EIGHTHS: try adding symbols</li>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: try adding symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2248 ALMOST EQUAL TO: try adding math</li>
+<li>U+2260 NOT EQUAL TO: try adding math</li>
+<li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
+<li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, symbols, yi</li>
+<li>U+2462 CIRCLED DIGIT THREE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, symbols, yi</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, symbols, yi</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: mongolian, symbols, yi</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, symbols, yi</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, symbols, yi</li>
+<li>U+24EA CIRCLED DIGIT ZERO: try adding symbols</li>
+<li>U+24FF NEGATIVE CIRCLED DIGIT ZERO: try adding symbols</li>
+<li>U+2776 DINGBAT NEGATIVE CIRCLED DIGIT ONE: try adding symbols</li>
+<li>U+2777 DINGBAT NEGATIVE CIRCLED DIGIT TWO: try adding symbols</li>
+<li>U+2778 DINGBAT NEGATIVE CIRCLED DIGIT THREE: try adding symbols</li>
+<li>U+2779 DINGBAT NEGATIVE CIRCLED DIGIT FOUR: try adding symbols</li>
+<li>U+277A DINGBAT NEGATIVE CIRCLED DIGIT FIVE: try adding symbols</li>
+<li>U+277B DINGBAT NEGATIVE CIRCLED DIGIT SIX: try adding symbols</li>
+<li>U+277C DINGBAT NEGATIVE CIRCLED DIGIT SEVEN: try adding symbols</li>
+<li>U+277D DINGBAT NEGATIVE CIRCLED DIGIT EIGHT: try adding symbols</li>
+<li>U+277E DINGBAT NEGATIVE CIRCLED DIGIT NINE: try adding symbols</li>
 <li>U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition</li>
+<li>U+1F4A5 COLLISION SYMBOL: not included in any glyphset definition</li>
+<li>U+1F91B LEFT-FACING FIST: not included in any glyphset definition</li>
+<li>U+1F91C RIGHT-FACING FIST: not included in any glyphset definition</li>
+<li>U+1F94A BOXING GLOVE: not included in any glyphset definition</li>
+<li>U+1FA79 ADHESIVE BANDAGE: try adding symbols</li>
 </ul>
-<p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
+<p>Or you can add the above codepoints to one of the subsets supported by the font: <code>cyrillic-ext</code>, <code>latin</code>, <code>latin-ext</code></p>
  [code: unreachable-subsetting]
 
 
@@ -5347,6 +5313,26 @@ definitions.</p>
 </details>
 
 <details>
+    <summary>⚠️ <b>WARN</b> Check the direction of the outermost contour in each glyph <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#outline-direction">outline_direction</a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The following glyphs have a counter-clockwise outer contour:</p>
+<pre><code>* u1F4A5 (U+1F4A5) has a counter-clockwise outer contour
+</code></pre>
+ [code: ccw-outer-contour]
+
+
+
+</div>
+</details>
+
+<details>
     <summary>⚠️ <b>WARN</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.html#googlefonts-meta-script-lang-tags">googlefonts/meta/script_lang_tags</a></summary>
     <div>
 
@@ -5384,7 +5370,7 @@ definitions.</p>
 </div>
 </details>
 
-<details><summary>[13] Savate[wght].ttf</summary>
+<details><summary>[12] Savate[wght].ttf</summary>
 <div>
 <details>
     <summary>🔥 <b>FAIL</b> Shapes languages in all GF glyphsets. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.html#googlefonts-glyphsets-shape-languages">googlefonts/glyphsets/shape_languages</a></summary>
@@ -5802,7 +5788,7 @@ definitions.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: Ɤ́, ɤ̏, Ɤ̂, Ɤ̄, ɤ̋, ɤ̂, Ɤ̏, ɤ̀, ɤ, Ɤ, ɤ́, Ɤ̋, Ɤ̀, ɤ̄</td>
+<td align="left">The following base characters are missing from the font: ɤ̀, ɤ̂, ɤ, ɤ́, Ɤ, ɤ̋, Ɤ̏, Ɤ́, Ɤ̋, Ɤ̀, Ɤ̂, ɤ̄, Ɤ̄, ɤ̏</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -7022,7 +7008,7 @@ definitions.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ɤ́, Ɤ̀, ɤ, Ɤ́, ɤ̂, ɤ̀, Ɤ̂, Ɤ</td>
+<td align="left">The following base characters are missing from the font: Ɤ, Ɤ̂, ɤ, ɤ́, Ɤ́, ɤ̀, Ɤ̀, ɤ̂</td>
 <td align="left"></td>
 </tr>
 <tr>
@@ -9426,7 +9412,7 @@ definitions.</p>
 <td align="left"></td>
 </tr>
 <tr>
-<td align="left">The following base characters are missing from the font: ᵋ, ᵃ, ᵒ, ⁱ, ᶤ, ᶶ, ᵉ, ᵓ</td>
+<td align="left">The following base characters are missing from the font: ᶤ, ᵓ, ᵋ, ᵉ, ᶶ, ᵒ, ⁱ, ᵃ</td>
 <td align="left">teo_Latn (Teso)</td>
 </tr>
 <tr>
@@ -10316,15 +10302,7 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
-
-- Contour 1 start point differs in glyph 'uni026A' between location wght=200 and location wght=593
+<pre><code>- Contour 1 start point differs in glyph 'uni026A' between location wght=200 and location wght=593
 
 - Contour 1 in glyph 'uni026A': becomes underweight between wght=200 and wght=593.
 
@@ -10334,34 +10312,15 @@ definitions.</p>
 
 - Contour order differs in glyph 'uni026A': [0, 1, 2] in wght=593, [0, 2, 1] in wght=900.
 
-- Contour 1 start point differs in glyph 'section' between location wght=200 and location wght=593
+- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
 
-- Contour 1 start point differs in glyph 'section' between location wght=593 and location wght=900
+- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
 
-- Contour 1 in glyph 'section': becomes underweight between wght=593 and wght=900.
+- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
+
+- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
 </code></pre>
  [code: interpolation-issues]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#math-signs-width">math_signs_width</a></summary>
-    <div>
-
-
-
-
-
-
-
-* ⚠️ **WARN** <p>The most common width is 654 among a set of 11 math glyphs.
-The following math glyphs have a different width, though:</p>
-<p>Width = 662:
-lessequal, greaterequal</p>
- [code: width-outliers]
 
 
 
@@ -10425,20 +10384,20 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, todhri, duployan, tai-le, malayalam, coptic, syriac, tifinagh, hebrew, math</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: syriac, coptic, todhri, canadian-aboriginal, math, old-permic, duployan, malayalam, tai-le, hebrew, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: try adding one of: math, sunuwar</li>
-<li>U+0311 COMBINING INVERTED BREVE: try adding one of: todhri, coptic</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0313 COMBINING COMMA ABOVE: try adding one of: old-permic, todhri</li>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: try adding math</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, syriac, cherokee</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, duployan, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
@@ -10446,20 +10405,20 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, cherokee, syriac, tifinagh, thai, gothic, sunuwar</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: syriac, thai, gothic, caucasian-albanian, sunuwar, cherokee, tifinagh</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: math, greek, elbasan</li>
-<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: math, greek, elbasan</li>
-<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: math, greek, elbasan</li>
-<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: math, greek, elbasan</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+0394 GREEK CAPITAL LETTER DELTA: try adding one of: elbasan, math, greek</li>
+<li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: elbasan, math, greek</li>
+<li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, math, greek</li>
+<li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, math, greek</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -10525,15 +10484,15 @@ definitions.</p>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, yi, symbols</li>
-<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, yi, symbols</li>
-<li>U+2462 CIRCLED DIGIT THREE: try adding one of: mongolian, yi, symbols</li>
-<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, yi, symbols</li>
-<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: mongolian, yi, symbols</li>
-<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, yi, symbols</li>
-<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: mongolian, yi, symbols</li>
-<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, yi, symbols</li>
-<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, yi, symbols</li>
+<li>U+2460 CIRCLED DIGIT ONE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2461 CIRCLED DIGIT TWO: try adding one of: mongolian, symbols, yi</li>
+<li>U+2462 CIRCLED DIGIT THREE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2463 CIRCLED DIGIT FOUR: try adding one of: mongolian, symbols, yi</li>
+<li>U+2464 CIRCLED DIGIT FIVE: try adding one of: mongolian, symbols, yi</li>
+<li>U+2465 CIRCLED DIGIT SIX: try adding one of: mongolian, symbols, yi</li>
+<li>U+2466 CIRCLED DIGIT SEVEN: try adding one of: mongolian, symbols, yi</li>
+<li>U+2467 CIRCLED DIGIT EIGHT: try adding one of: mongolian, symbols, yi</li>
+<li>U+2468 CIRCLED DIGIT NINE: try adding one of: mongolian, symbols, yi</li>
 <li>U+24EA CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+24FF NEGATIVE CIRCLED DIGIT ZERO: try adding symbols</li>
 <li>U+2776 DINGBAT NEGATIVE CIRCLED DIGIT ONE: try adding symbols</li>
@@ -10686,12 +10645,6 @@ definitions.</p>
 
 * uni03BC (U+03BC): X=547.5,Y=1.5 (should be at baseline 0?)
 
-* one.osf: X=192.0,Y=-2.0 (should be at baseline 0?)
-
-* one.osf: X=222.0,Y=-2.0 (should be at baseline 0?)
-
-* one.osf: X=192.0,Y=-2.0 (should be at baseline 0?)
-
 * uni2079 (U+2079): X=294.0,Y=732.0 (should be at cap-height 730?)
 
 * uni2079 (U+2079): X=48.0,Y=732.0 (should be at cap-height 730?)
@@ -10812,8 +10765,8 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 3 | 21 | 175 | 15 | 241 | 0 | 
-| 0% | 0% | 1% | 5% | 38% | 3% | 53% | 0% | 
+| 0 | 0 | 2 | 21 | 175 | 15 | 242 | 0 | 
+| 0% | 0% | 0% | 5% | 38% | 3% | 53% | 0% | 
 
 
 
