@@ -506,13 +506,13 @@ immediately.
 
                             <span class='details_text'>
                             <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
-
-- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
-
-- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
+<pre><code>- Contour 0 start point differs in glyph 'uni02BF' between location wght=200 and location wght=593
 
 - Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
+
+- Contour 0 start point differs in glyph 'uni02BE' between location wght=200 and location wght=593
+
+- Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
 </code></pre>
 
                             
@@ -543,15 +543,15 @@ immediately.
 
                             <span class='details_text'>
                             <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour order differs in glyph 'approxequal': [0, 1] in wght=200, [1, 0] in wght=593.
-
-- Contour order differs in glyph 'tbar': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
+<pre><code>- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
 
 - Contour order differs in glyph 'uni030B.case': [0, 1] in wght=200, [1, 0] in wght=593.
 
 - Contour 0 in glyph 'uni02BE': becomes underweight between wght=200 and wght=593.
 
-- Contour 0 in glyph 'uni02BF': becomes underweight between wght=200 and wght=593.
+- Contour order differs in glyph 'approxequal': [0, 1] in wght=200, [1, 0] in wght=593.
+
+- Contour order differs in glyph 'tbar': [0, 1, 2] in wght=200, [0, 2, 1] in wght=593.
 </code></pre>
 
                             
@@ -1072,12 +1072,12 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, todhri, old-permic, syriac, coptic, duployan, canadian-aboriginal, hebrew, malayalam, math</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, coptic, todhri, tai-le, canadian-aboriginal, duployan, syriac, old-permic, malayalam, hebrew, math</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
 <li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
@@ -1096,8 +1096,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, thai, cherokee, caucasian-albanian, gothic, sunuwar, syriac</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: sunuwar, tifinagh, thai, caucasian-albanian, cherokee, syriac, gothic</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -1107,10 +1107,10 @@ definitions.</p>
 <li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: elbasan, greek, math</li>
 <li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, greek, math</li>
 <li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, greek, math</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -1137,7 +1137,7 @@ definitions.</p>
 <li>U+1EE5 LATIN SMALL LETTER U WITH DOT BELOW: try adding vietnamese</li>
 <li>U+2003 EM SPACE: try adding nushu</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+2010 HYPHEN: try adding one of: armenian, sora-sompeng, sundanese, kayah-li, cham, yi, syloti-nagri, kharoshthi, coptic, arabic, lisu, hebrew, kaithi</li>
+<li>U+2010 HYPHEN: try adding one of: cham, syloti-nagri, kayah-li, sora-sompeng, coptic, kaithi, armenian, kharoshthi, sundanese, lisu, yi, arabic, hebrew</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+2070 SUPERSCRIPT ZERO: try adding math</li>
@@ -1242,12 +1242,12 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, cherokee, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, todhri, old-permic, syriac, coptic, duployan, canadian-aboriginal, hebrew, malayalam, math</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, coptic, todhri, tai-le, canadian-aboriginal, duployan, syriac, old-permic, malayalam, hebrew, math</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
 <li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
@@ -1266,8 +1266,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, thai, cherokee, caucasian-albanian, gothic, sunuwar, syriac</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: sunuwar, tifinagh, thai, caucasian-albanian, cherokee, syriac, gothic</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -1277,10 +1277,10 @@ definitions.</p>
 <li>U+039B GREEK CAPITAL LETTER LAMDA: try adding one of: elbasan, greek, math</li>
 <li>U+03A7 GREEK CAPITAL LETTER CHI: try adding one of: elbasan, greek, math</li>
 <li>U+03A9 GREEK CAPITAL LETTER OMEGA: try adding one of: elbasan, greek, math</li>
-<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: greek, math</li>
-<li>U+03BC GREEK SMALL LETTER MU: try adding one of: greek, math</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math</li>
-<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: greek, math</li>
+<li>U+03BB GREEK SMALL LETTER LAMDA: try adding one of: math, greek</li>
+<li>U+03BC GREEK SMALL LETTER MU: try adding one of: math, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C7 GREEK SMALL LETTER CHI: try adding one of: math, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -1307,7 +1307,7 @@ definitions.</p>
 <li>U+1EE5 LATIN SMALL LETTER U WITH DOT BELOW: try adding vietnamese</li>
 <li>U+2003 EM SPACE: try adding nushu</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+2010 HYPHEN: try adding one of: armenian, sora-sompeng, sundanese, kayah-li, cham, yi, syloti-nagri, kharoshthi, coptic, arabic, lisu, hebrew, kaithi</li>
+<li>U+2010 HYPHEN: try adding one of: cham, syloti-nagri, kayah-li, sora-sompeng, coptic, kaithi, armenian, kharoshthi, sundanese, lisu, yi, arabic, hebrew</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+2070 SUPERSCRIPT ZERO: try adding math</li>
@@ -2211,7 +2211,7 @@ definitions.</p>
 
 * exclam (U+0021): X=157.0,Y=2.0 (should be at baseline 0?)
 
-* asterisk (U+002A): X=200.0,Y=731.5 (should be at cap-height 730?)
+* asterisk (U+002A): X=167.0,Y=731.5 (should be at cap-height 730?)
 
 * exclamdown.case: X=142.5,Y=0.5 (should be at baseline 0?)
 
@@ -2221,19 +2221,23 @@ definitions.</p>
 
 * exclamdown.case: X=87.0,Y=728.0 (should be at cap-height 730?)
 
-* quotedbl (U+0022): X=103.5,Y=730.5 (should be at cap-height 730?)
+* quotedbl (U+0022): X=70.5,Y=730.5 (should be at cap-height 730?)
 
-* quotedbl (U+0022): X=140.5,Y=730.5 (should be at cap-height 730?)
+* quotedbl (U+0022): X=107.5,Y=730.5 (should be at cap-height 730?)
 
-* quotedbl (U+0022): X=218.5,Y=730.5 (should be at cap-height 730?)
+* quotedbl (U+0022): X=185.5,Y=730.5 (should be at cap-height 730?)
 
-* quotedbl (U+0022): X=255.5,Y=730.5 (should be at cap-height 730?)
+* quotedbl (U+0022): X=222.5,Y=730.5 (should be at cap-height 730?)
 
-* quotesingle (U+0027): X=103.5,Y=730.5 (should be at cap-height 730?)
+* quotesingle (U+0027): X=70.5,Y=730.5 (should be at cap-height 730?)
 
-* quotesingle (U+0027): X=140.5,Y=730.5 (should be at cap-height 730?)
+* quotesingle (U+0027): X=107.5,Y=730.5 (should be at cap-height 730?)
 
 * florin (U+0192): X=355.0,Y=728.0 (should be at cap-height 730?)
+
+* at (U+0040): X=234.0,Y=0.5 (should be at baseline 0?)
+
+* at (U+0040): X=621.0,Y=2.0 (should be at baseline 0?)
 
 * dagger (U+2020): X=218.5,Y=731.5 (should be at cap-height 730?)
 
