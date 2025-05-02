@@ -2606,7 +2606,7 @@ GroMo (YC W21) Is Hiring
 The Secret Services' involvement in the making of The Line of Fire (1993) [pdf]
 NotebookLM Audio Overviews are now available in over 50 languages
 You Wouldn't Download a Hacker News",
-"ʿʾ"
+"0123456789"
 );
 axes = (
 {
@@ -2659,6 +2659,8 @@ feature ordn;
 feature lnum;
 feature onum;
 feature case;
+feature ss01;
+feature ss02;
 ";
 tag = aalt;
 },
@@ -2930,6 +2932,44 @@ tag = liga;
 code = "";
 disabled = 1;
 tag = dlig;
+},
+{
+code = "sub zero by zero.circled;
+sub one by one.circled;
+sub two by two.circled;
+sub three by three.circled;
+sub four by four.circled;
+sub five by five.circled;
+sub six by six.circled;
+sub seven by seven.circled;
+sub eight by eight.circled;
+sub nine by nine.circled;";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+},
+{
+code = "sub zero by zero.blackCircled;
+sub one by one.blackCircled;
+sub two by two.blackCircled;
+sub three by three.blackCircled;
+sub four by four.blackCircled;
+sub five by five.blackCircled;
+sub six by six.blackCircled;
+sub seven by seven.blackCircled;
+sub eight by eight.blackCircled;
+sub nine by nine.blackCircled;";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
 }
 );
 fontMaster = (
