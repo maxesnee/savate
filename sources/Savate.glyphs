@@ -2,7 +2,7 @@
 .appVersion = "3410";
 .formatVersion = 3;
 DisplayStrings = (
-"ĄĄĘĮOǪǬŲaąę/idotless_ogonek įǫǭų"
+"ÇḈḐȨḜHḨŞTŢçḉḑȩḝḩşţ"
 );
 axes = (
 {
@@ -5133,7 +5133,7 @@ color = 5;
 glyphname = Dcedilla;
 kernLeft = UC_Stem;
 kernRight = UC_Round;
-lastChange = "2025-04-23 09:49:11 +0000";
+lastChange = "2025-05-09 10:21:19 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -10512,7 +10512,7 @@ unicode = 484;
 glyphname = H;
 kernLeft = UC_Stem;
 kernRight = UC_Stem;
-lastChange = "2025-04-28 15:31:23 +0000";
+lastChange = "2025-05-09 10:22:13 +0000";
 layers = (
 {
 anchors = (
@@ -10573,7 +10573,7 @@ pos = (366,0);
 },
 {
 name = cedilla;
-pos = (123,0);
+pos = (119,0);
 },
 {
 name = hookleft;
@@ -10767,7 +10767,7 @@ color = 5;
 glyphname = Hcedilla;
 kernLeft = UC_Stem;
 kernRight = UC_Stem;
-lastChange = "2025-04-23 09:50:00 +0000";
+lastChange = "2025-05-09 10:22:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -10789,7 +10789,7 @@ shapes = (
 ref = H;
 },
 {
-pos = (-127,0);
+pos = (-131,0);
 ref = cedillacomb;
 }
 );
