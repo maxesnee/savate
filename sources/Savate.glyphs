@@ -2,7 +2,7 @@
 .appVersion = "3410";
 .formatVersion = 3;
 DisplayStrings = (
-"⓿❶❷❸❹❺❻❼❽❾"
+"❸"
 );
 axes = (
 {
@@ -80919,7 +80919,7 @@ color = 4;
 glyphname = three.blackCircled;
 kernLeft = UC_Round;
 kernRight = UC_Round;
-lastChange = "2025-05-09 13:11:59 +0000";
+lastChange = "2025-05-09 13:34:50 +0000";
 layers = (
 {
 background = {
@@ -80980,17 +80980,6 @@ nodes = (
 (527,201,o),
 (476,156,o),
 (384,156,cs)
-);
-},
-{
-attr = {
-mask = 1;
-};
-closed = 1;
-nodes = (
-(483,510,l),
-(476,522,l),
-(465,510,l)
 );
 }
 );
@@ -81056,17 +81045,6 @@ nodes = (
 (500,152,o),
 (387,152,cs)
 );
-},
-{
-attr = {
-mask = 1;
-};
-closed = 1;
-nodes = (
-(422,403,l),
-(425,415,l),
-(404,403,l)
-);
 }
 );
 width = 764;
@@ -81081,7 +81059,7 @@ color = 4;
 glyphname = four.blackCircled;
 kernLeft = UC_Round;
 kernRight = UC_Round;
-lastChange = "2025-05-09 13:12:40 +0000";
+lastChange = "2025-05-09 13:30:07 +0000";
 layers = (
 {
 background = {
@@ -81135,9 +81113,9 @@ mask = 1;
 };
 closed = 1;
 nodes = (
-(273,282,l),
 (443,282,l),
-(443,507,l)
+(443,507,l),
+(273,282,l)
 );
 }
 );
