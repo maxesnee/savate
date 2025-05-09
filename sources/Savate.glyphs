@@ -1,6 +1,9 @@
 {
 .appVersion = "3410";
 .formatVersion = 3;
+DisplayStrings = (
+"/florin_i"
+);
 axes = (
 {
 name = Weight;
@@ -90379,9 +90382,15 @@ unicode = 39;
 glyphname = florin_i;
 kernLeft = lc_f;
 kernRight = lc_ShortStem;
-lastChange = "2025-05-01 13:10:43 +0000";
+lastChange = "2025-05-09 12:47:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (238.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -90457,6 +90466,12 @@ nodes = (
 width = 477;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (293,0);
+}
+);
 background = {
 shapes = (
 {

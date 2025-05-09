@@ -79912,9 +79912,15 @@ color = 5;
 glyphname = florin_i;
 kernLeft = lc_f;
 kernRight = lc_ShortStem;
-lastChange = "2025-05-01 13:52:34 +0000";
+lastChange = "2025-05-09 12:48:04 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (240.5,0);
+}
+);
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
 shapes = (
 {
@@ -79924,6 +79930,12 @@ ref = fi;
 width = 481;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (295.5,0);
+}
+);
 layerId = "41EDA971-A137-4972-81AF-7929AB7CAABF";
 shapes = (
 {
