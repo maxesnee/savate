@@ -1,2612 +1,8 @@
 {
-.appVersion = "3413";
+.appVersion = "3410";
 .formatVersion = 3;
 DisplayStrings = (
-"ȺBɃȻÐɆǤĦƗɈꝀȽꞭ
-ⱠŁØⱣɌꞨŦȾɄɎƵꞸ
-฿₿₵¢₡$₫€₲₴₭
-₾₺₼₦₱₽₹£₮₩¥
-ⱥƀȼđðɇǥħɨɉꝁƛƚɬⱡł
-øᵽɍꞩŧⱦʉꞹɏƶ
-",
-"HHAIAHH OOAIAOO
-HHAOAHH OOAOAOO
-HHIOIHH OOIOIOO
-HHASAHH OOASAOO
-HHISIHH OOISIOO
-HHOSOHH OOOSOOO
-HHATAHH OOATAOO
-HHOTOHH OOOTOOO
-HHSTSHH OOSTSOO
-HHAUAHH OOAUAOO
-HHSUSHH OOSUSOO
-HHAVAHH OOAVAOO
-HHAWAHH OOAWAOO
-HHOVOHH OOOVOOO
-HHOWOHH OOOWOOO
-HHSVSHH OOSVSOO
-HHSWSHH OOSWSOO
-HHOXOHH OOOXOOO
-HHSXSHH OOSXSOO
-HHTXTHH OOTXTOO
-HHUXUHH OOUXUOO
-HHAYAHH OOAYAOO
-HHOYOHH OOOYOOO
-HHSYSHH OOSYSOO
-HHXYXHH OOXYXOO
-HHAZAHH OOAZAOO
-HHOZOHH OOOZOOO
-HHSZSHH OOSZSOO
-HHAƩAHH OOAƩAOO
-HHOƩOHH OOOƩOOO
-HHSƩSHH OOSƩSOO
-HHTƩTHH OOTƩTOO
-HHUƩUHH OOUƩUOO
-HHVƩVHH OOVƩVOO
-HHWƩWHH OOWƩWOO
-HHXƩXHH OOXƩXOO
-HHYƩYHH OOYƩYOO
-HHAƸAHH OOAƸAOO
-HHOƸOHH OOOƸOOO
-HHSƸSHH OOSƸSOO
-HHAɁAHH OOAɁAOO
-HHIɁIHH OOIɁIOO
-HHOɁOHH OOOɁOOO
-HHSɁSHH OOSɁSOO
-HHVɁVHH OOVɁVOO
-HHWɁWHH OOWɁWOO
-HHXɁXHH OOXɁXOO
-HHYɁYHH OOYɁYOO
-HHZɁZHH OOZɁZOO
-HHƩɁƩHH OOƩɁƩOO
-HHƸɁƸHH OOƸɁƸOO
-HHAꞋAHH OOAꞋAOO
-HHƩꞋƩHH OOƩꞋƩOO
-HHAƁHH OOAƁOO
-HHYJHH OOYJOO
-HHYƏHH OOYƏOO
-HHOƁHH OOOƁOO
-HHUJHH OOUJOO
-HHIƆHH OOIƆOO
-HHCZHH OOCZOO
-HHƳJHH OOƳJOO
-HHɄWHH OOɄWOO
-HHƳɁHH OOƳɁOO
-HHPSHH OOPSOO
-HHƘTHH OOƘTOO
-HHɄSHH OOɄSOO
-HHPꞋHH OOPꞋOO
-HHꞲVHH OOꞲVOO
-HHLOHH OOLOOO
-HHPTHH OOPTOO
-HHBTHH OOBTOO
-HHCƏHH OOCƏOO
-HHVẞHH OOVẞOO
-HHBYHH OOBYOO
-HHEƏHH OOEƏOO
-HHƘẞHH OOƘẞOO
-HHAꞍHH OOAꞍOO
-HHKȽHH OOKȽOO
-HHWJHH OOWJOO
-HHꞲIHH OOꞲIOO
-HHSSHH OOSSOO
-HHRUHH OORUOO
-HHBAHH OOBAOO
-HHƩẞHH OOƩẞOO
-HHÞƆHH OOÞƆOO
-HHSƎHH OOSƎOO
-HHPYHH OOPYOO
-HHBƆHH OOBƆOO
-HHꞲƁHH OOꞲƁOO
-HHVJHH OOVJOO
-HHGꞍHH OOGꞍOO
-HHGɁHH OOGɁOO
-HHTƏHH OOTƏOO
-HHYȽHH OOYȽOO
-HHPOHH OOPOOO
-HHƸƆHH OOƸƆOO
-HHKɁHH OOKɁOO
-HHXƆHH OOXƆOO
-HHRɁHH OORɁOO
-HHƩƆHH OOƩƆOO
-HHɁƎHH OOɁƎOO
-HHGWHH OOGWOO
-HHƳƏHH OOƳƏOO
-HHꞲƆHH OOꞲƆOO
-HHƘƁHH OOƘƁOO
-HHPAHH OOPAOO
-HHÞXHH OOÞXOO
-HHYẞHH OOYẞOO
-HHIƏHH OOIƏOO
-HHꞲXHH OOꞲXOO
-HHKꞍHH OOKꞍOO
-HHÞWHH OOÞWOO
-HHƳSHH OOƳSOO
-HHƸẞHH OOƸẞOO
-HHÞꞍHH OOÞꞍOO
-HHBɁHH OOBɁOO
-HHSƁHH OOSƁOO
-HHƩȽHH OOƩȽOO
-HHŊWHH OOŊWOO
-HHɄXHH OOɄXOO
-HHꞋJHH OOꞋJOO
-HHɁɁHH OOɁɁOO
-HHCƸHH OOCƸOO
-HHLɁHH OOLɁOO
-HHɄƸHH OOɄƸOO
-HHɄIHH OOɄIOO
-HHŊƁHH OOŊƁOO
-HHÞVHH OOÞVOO
-HHꞋꞋHH OOꞋꞋOO
-HHRVHH OORVOO
-HHƩƩHH OOƩƩOO
-HHBXHH OOBXOO
-HHAƆHH OOAƆOO
-HHWƁHH OOWƁOO
-HHŊVHH OOŊVOO
-HHꞲJHH OOꞲJOO
-HHƸƸHH OOƸƸOO
-HHKẞHH OOKẞOO
-HHCẞHH OOCẞOO
-HHÞƁHH OOÞƁOO
-HHRYHH OORYOO
-HHƘƏHH OOƘƏOO
-HHGƁHH OOGƁOO
-HHAƏHH OOAƏOO
-HHꞲYHH OOꞲYOO
-HHYƆHH OOYƆOO
-HHROHH OOROOO
-HHꞲƩHH OOꞲƩOO
-HHFẞHH OOFẞOO
-HHSƆHH OOSƆOO
-HHPƩHH OOPƩOO
-HHWȽHH OOWȽOO
-HHIƁHH OOIƁOO
-HHGTHH OOGTOO
-HHƳȽHH OOƳȽOO
-HHƩƁHH OOƩƁOO
-HHLƏHH OOLƏOO
-HHꞲẞHH OOꞲẞOO
-HHLWHH OOLWOO
-HHLȽHH OOLȽOO
-HHɁJHH OOɁJOO
-HHKƆHH OOKƆOO
-HHCVHH OOCVOO
-HHKƏHH OOKƏOO
-HHBSHH OOBSOO
-HHRƁHH OORƁOO
-HHꞲȽHH OOꞲȽOO
-HHPƏHH OOPƏOO
-HHKOHH OOKOOO
-HHFJHH OOFJOO
-HHLƁHH OOLƁOO
-HHZƏHH OOZƏOO
-HHXƏHH OOXƏOO
-HHLVHH OOLVOO
-HHCOHH OOCOOO
-HHWƆHH OOWƆOO
-HHZȽHH OOZȽOO
-HHBJHH OOBJOO
-HHꞋƆHH OOꞋƆOO
-HHPJHH OOPJOO
-HHCȽHH OOCȽOO
-HHƳOHH OOƳOOO
-HHOꞍHH OOOꞍOO
-HHꞲɁHH OOꞲɁOO
-HHRƏHH OORƏOO
-HHKSHH OOKSOO
-HHLꞋHH OOLꞋOO
-HHSꞍHH OOSꞍOO
-HHꞲTHH OOꞲTOO
-HHɄƩHH OOɄƩOO
-HHFWHH OOFWOO
-HHƸꞍHH OOƸꞍOO
-HHLUHH OOLUOO
-HHPXHH OOPXOO
-HHVƏHH OOVƏOO
-HHBƎHH OOBƎOO
-HHƸȽHH OOƸȽOO
-HHEꞍHH OOEꞍOO
-HHꞲSHH OOꞲSOO
-HHƘȽHH OOƘȽOO
-HHƸƁHH OOƸƁOO
-HHVƆHH OOVƆOO
-HHBꞍHH OOBꞍOO
-HHLYHH OOLYOO
-HHBIHH OOBIOO
-HHCƁHH OOCƁOO
-HHEƸHH OOEƸOO
-HHRȽHH OORȽOO
-HHꞲWHH OOꞲWOO
-HHÞTHH OOÞTOO
-HHGƆHH OOGƆOO
-HHWꞍHH OOWꞍOO
-HHVƎHH OOVƎOO
-HHÞOHH OOÞOOO
-HHPȽHH OOPȽOO
-HHPƁHH OOPƁOO
-HHTȽHH OOTȽOO
-HHŊSHH OOŊSOO
-HHÞƎHH OOÞƎOO
-HHBƏHH OOBƏOO
-HHGYHH OOGYOO
-HHFSHH OOFSOO
-HHGȽHH OOGȽOO
-HHFƩHH OOFƩOO
-HHɄVHH OOɄVOO
-HHCXHH OOCXOO
-HHRꞍHH OORꞍOO
-HHPƸHH OOPƸOO
-HHɄƁHH OOɄƁOO
-HHRZHH OORZOO
-HHÞƩHH OOÞƩOO
-HHCTHH OOCTOO
-HHƘƆHH OOƘƆOO
-HHɄꞋHH OOɄꞋOO
-HHKZHH OOKZOO
-HHCWHH OOCWOO
-HHŊTHH OOŊTOO
-HHŊXHH OOŊXOO
-HHXꞍHH OOXꞍOO
-HHɄƎHH OOɄƎOO
-HHɄTHH OOɄTOO
-HHZƁHH OOZƁOO
-HHFƆHH OOFƆOO
-HHGXHH OOGXOO
-HHƸƏHH OOƸƏOO
-HHPWHH OOPWOO
-HHCYHH OOCYOO
-HHƳTHH OOƳTOO
-HHXẞHH OOXẞOO
-HHÞIHH OOÞIOO
-HHCꞋHH OOCꞋOO
-HHɄƏHH OOɄƏOO
-HHƘƩHH OOƘƩOO
-HHƩJHH OOƩJOO
-HHZẞHH OOZẞOO
-HHTJHH OOTJOO
-HHKƸHH OOKƸOO
-HHOƆHH OOOƆOO
-HHÞZHH OOÞZOO
-HHTẞHH OOTẞOO
-HHɄJHH OOɄJOO
-HHƳYHH OOƳYOO
-HHPVHH OOPVOO
-HHꞲAHH OOꞲAOO
-HHSȽHH OOSȽOO
-HHɄAHH OOɄAOO
-HHFƏHH OOFƏOO
-HHƳAHH OOƳAOO
-HHɁƆHH OOɁƆOO
-HHɄɁHH OOɄɁOO
-HHBUHH OOBUOO
-HHAJHH OOAJOO
-HHOƎHH OOOƎOO
-HHꞲꞋHH OOꞲꞋOO
-HHGVHH OOGVOO
-HHƳZHH OOƳZOO
-HHFAHH OOFAOO
-HHŊƆHH OOŊƆOO
-HHIꞍHH OOIꞍOO
-HHPIHH OOPIOO
-HHBWHH OOBWOO
-HHBƩHH OOBƩOO
-HHRWHH OORWOO
-HHƩƏHH OOƩƏOO
-HHSẞHH OOSẞOO
-HHɄƆHH OOɄƆOO
-HHEOHH OOEOOO
-HHŊUHH OOŊUOO
-HHƳWHH OOƳWOO
-HHKJHH OOKJOO
-HHɄZHH OOɄZOO
-HHOJHH OOOJOO
-HHGIHH OOGIOO
-HHWƏHH OOWƏOO
-HHCIHH OOCIOO
-HHTƁHH OOTƁOO
-HHÞUHH OOÞUOO
-HHÞƸHH OOÞƸOO
-HHLSHH OOLSOO
-HHRꞋHH OORꞋOO
-HHŊƸHH OOŊƸOO
-HHWẞHH OOWẞOO
-HHƘꞍHH OOƘꞍOO
-HHBOHH OOBOOO
-HHɄYɄHH OOɄYɄOO
-HHEɁHH OOEɁOO
-HHꞲZHH OOꞲZOO
-HHCUHH OOCUOO
-HHƳVHH OOƳVOO
-HHRTHH OORTOO
-HHLꞍHH OOLꞍOO
-HHɁȽHH OOɁȽOO
-HHESHH OOESOO
-HHTƆHH OOTƆOO
-HHFɁHH OOFɁOO
-HHƘꞋHH OOƘꞋOO
-HHƳƩHH OOƳƩOO
-HHUƎHH OOUƎOO
-HHÞSHH OOÞSOO
-HHCɁHH OOCɁOO
-HHBƁHH OOBƁOO
-HHEVHH OOEVOO
-HHRSHH OORSOO
-HHBVHH OOBVOO
-HHLƸHH OOLƸOO
-HHƳẞHH OOƳẞOO
-HHGJHH OOGJOO
-HHÞYHH OOÞYOO
-HHPZHH OOPZOO
-HHŊɁHH OOŊɁOO
-HHƘJHH OOƘJOO
-HHKƁHH OOKƁOO
-HHŊƩHH OOŊƩOO
-HHŊOHH OOŊOOO
-HHƸJHH OOƸJOO
-HHÞAHH OOÞAOO
-HHPƆHH OOPƆOO
-HHŊYHH OOŊYOO
-HHEƁHH OOEƁOO
-HHKIHH OOKIOO
-HHXȽHH OOXȽOO
-HHEẞHH OOEẞOO
-HHÞJHH OOÞJOO
-HHCAHH OOCAOO
-HHFOHH OOFOOO
-HHLTHH OOLTOO
-HHƳƆHH OOƳƆOO
-HHXƁHH OOXƁOO
-HHꞲꞍHH OOꞲꞍOO
-HHSJHH OOSJOO
-HHPƎHH OOPƎOO
-HHꞲOHH OOꞲOOO
-HHGZHH OOGZOO
-HHŊꞍHH OOŊꞍOO
-HHŊƏHH OOŊƏOO
-HHYƁHH OOYƁOO
-HHZƆHH OOZƆOO
-HHGƎHH OOGƎOO
-HHꞋƏHH OOꞋƏOO
-HHUẞHH OOUẞOO
-HHꞋẞHH OOꞋẞOO
-HHƘSHH OOƘSOO
-HHÞẞHH OOÞẞOO
-HHBȽHH OOBȽOO
-HHCSHH OOCSOO
-HHƘOHH OOƘOOO
-HHBƸHH OOBƸOO
-HHꞲUHH OOꞲUOO
-HHÞɁHH OOÞɁOO
-HHKUHH OOKUOꞋẞ",
-"nnoaonn oooaooo
-nnofonn ooofooo
-nnafann ooafaoo
-nnfffnn oofffoo
-nnoionn oooiooo
-nnaiann ooaiaoo
-nnolonn ooolooo
-nnalann ooalaoo
-nnlfnn oolfoo
-nnilinn ooilioo
-nnosonn ooosooo
-nnasann ooasaoo
-nnfsfnn oofsfoo
-nnisinn ooisioo
-nnlslnn oolsloo
-nnotonn oootooo
-nnatann ooataoo
-nnftfnn ooftfoo
-nnitinn ooitioo
-nnltlnn ooltloo
-nnstsnn oostsoo
-nnouonn ooouooo
-nnauann ooauaoo
-nnlulnn ooluloo
-nnsusnn oosusoo
-nnovonn ooovooo
-nnavann ooavaoo
-nnlvlnn oolvloo
-nnsvsnn oosvsoo
-nnowonn ooowooo
-nnawann ooawaoo
-nnlwlnn oolwloo
-nnswsnn ooswsoo
-nnoxonn oooxooo
-nnaxann ooaxaoo
-nnlxlnn oolxloo
-nnsxsnn oosxsoo
-nnuxunn oouxuoo
-nnvxvnn oovxvoo
-nnwxwnn oowxwoo
-nnoyonn oooyooo
-nnayann ooayaoo
-nnlylnn oolyloo
-nnsysnn oosysoo
-nnozonn ooozooo
-nnazann ooazaoo
-nnlzlnn oolzloo
-nnszsnn ooszsoo
-nnoıonn oooıooo
-nnaıann ooaıaoo
-nnlılnn oolıloo
-nnsısnn oosısoo
-nnttnn oottoo
-nnrunn ooruoo
-nnrvnn oorvoo
-nnifnn ooifoo
-nnklnn ookloo
-nnkunn ookuoo
-nnʌvnn ooʌvoo
-nnʌwnn ooʌwoo
-nnwfnn oowfoo
-nnxfnn ooxfoo
-nnıınn ooııoo
-nnrfnn oorfoo
-nnxxnn ooxxoo
-nnuunn oouuoo
-nncunn oocuoo
-nnʌfnn ooʌfoo
-nnsfnn oosfoo
-nnvfnn oovfoo
-nnkonn ookooo
-nnclnn oocloo
-nnrwnn oorwoo
-nnglnn oogloo
-nnrann ooraoo
-nnkinn ookioo
-nnllnn oolloo
-nnrznn oorzoo
-nnyfnn ooyfoo
-nnyynn ooyyoo
-nnronn oorooo
-nngann oogaoo
-nnrtnn oortoo
-nnʌunn ooʌuoo
-nnıfnn ooıfoo
-nnʌonn ooʌooo
-nngsnn oogsoo
-nnvvnn oovvoo
-nnwwnn oowwoo
-nnrsnn oorsoo
-nnzfnn oozfoo
-nnrinn oorioo
-nnctnn ooctoo
-nnufnn ooufoo
-nnzznn oozzoo
-nnkfnn ookfoo
-nncwnn oocwoo
-nncann oocaoo
-nnrınn oorıoo
-nncxnn oocxoo
-nncvnn oocvoo
-nncsnn oocsoo
-nngunn ooguoo
-nnʌynn ooʌyoo
-nnʌznn ooʌzoo
-nnʌinn ooʌioo
-nncinn oocioo
-nnksnn ooksoo
-nnkann ookaoo
-nncfnn oocfoo
-nnktnn ooktoo
-nnssnn oossoo
-nnkınn ookıoo
-nntfnn ootfoo
-nncınn oocıoo
-nnconn oocooo
-nnʌann ooʌaoo
-nnlfnn oolfoo
-nnrynn ooryoo
-nnaann ooaaoo
-nncynn oocyoo
-nnʌtnn ooʌtoo
-nngonn oogooo
-nnʌsnn ooʌsoo
-nnrlnn oorloo
-nnrxnn oorxoo
-nnʌlnn ooʌloo
-nnʌınn ooʌıoo
-nncznn ooczoo
-nnoʘonn oooʘooo
-nnıʘınn ooıʘıoo
-nnaʘann ooaʘaoo
-nnfʘfnn oofʘfoo
-nniʘinn ooiʘioo
-nnlʘlnn oolʘloo
-nnsʘsnn oosʘsoo
-nntʘtnn ootʘtoo
-nnuʘunn oouʘuoo
-nnvʘvnn oovʘvoo
-nnwʘwnn oowʘwoo
-nnxʘxnn ooxʘxoo
-nnyʘynn ooyʘyoo
-nnzʘznn oozʘzoo
-nnʘfnn ooʘfoo
-nnkʘnn ookʘoo
-nnrʘnn oorʘoo
-nnʌʘnn ooʌʘoo
-nnʘʘnn ooʘʘoo
-nngʘnn oogʘoo
-nncʘnn oocʘoo
-nnoɣonn oooɣooo
-nnaɣann ooaɣaoo
-nnlɣlnn oolɣloo
-nnsɣsnn oosɣsoo
-nncɣnn oocɣoo
-nnrɣnn oorɣoo
-nngɣnn oogɣoo
-nnɣfnn ooɣfoo
-nnkɣnn ookɣoo
-nnɣɣnn ooɣɣoo
-nnʌɣnn ooʌɣoo
-nnʘɣʘnn ooʘɣʘoo
-nnoʔonn oooʔooo
-nnıʔınn ooıʔıoo
-nnaʔann ooaʔaoo
-nnfʔfnn oofʔfoo
-nniʔinn ooiʔioo
-nnlʔlnn oolʔloo
-nnsʔsnn oosʔsoo
-nntʔtnn ootʔtoo
-nnuʔunn oouʔuoo
-nʕꞌʔvnn oovʔvoo
-nnwʔwnn oowʔwoo
-nnxʔxnn ooxʔxoo
-nnyʔynn ooyʔyoo
-nnzʔznn oozʔzoo
-nnrʔnn oorʔoo
-nnkʔnn ookʔoo
-nnʔfnn ooʔfoo
-nnʌʔnn ooʌʔoo
-nncʔnn oocʔoo
-nnʔʔnn ooʔʔoo
-nngʔnn oogʔoo
-nnʘʔʘnn ooʘʔʘoo
-nnɣʔɣnn ooɣʔɣoo
-nnoʕonn oooʕooo
-nnıʕınn ooıʕıoo
-nnaʕann ooaʕaoo
-nnfʕfnn oofʕfoo
-nniʕinn ooiʕioo
-nnlʕlnn oolʕloo
-nnsʕsnn oosʕsoo
-nntʕtnn ootʕtoo
-nnuʕunn oouʕuoo
-nnvʕvnn oovʕvoo
-nnwʕwnn oowʕwoo
-nnxʕxnn ooxʕxoo
-nnyʕynn ooyʕyoo
-nnzʕznn oozʕzoo
-nngʕnn oogʕoo
-nnrʕnn oorʕoo
-nnkʕnn ookʕoo
-nncʕnn oocʕoo
-nnʌʕnn ooʌʕoo
-nnʕʕnn ooʕʕoo
-nnʕfnn ooʕfoo
-nnʘʕʘnn ooʘʕʘoo
-nnɣʕɣnn ooɣʕɣoo
-nnʔʕʔnn ooʔʕʔoo
-nnoχonn oooχooo
-nnaχann ooaχaoo
-nnlχlnn oolχloo
-nnsχsnn oosχsoo
-nngχnn oogχoo
-nnkχnn ookχoo
-nnrχnn oorχoo
-nnχχnn ooχχoo
-nncχnn oocχoo
-nnχfnn ooχfoo
-nnʌχnn ooʌχoo
-nnʘχʘnn ooʘχʘoo
-nnʔχʔnn ooʔχʔoo
-nnʕχʕnn ooʕχʕoo
-nnoꞌonn oooꞌooo
-nnıꞌınn ooıꞌıoo
-nnaꞌann ooaꞌaoo
-nnfꞌfnn oofꞌfoo
-nniꞌinn ooiꞌioo
-nnlꞌlnn oolꞌloo
-nnsꞌsnn oosꞌsoo
-nntꞌtnn ootꞌtoo
-nnuꞌunn oouꞌuoo
-nnvꞌvnn oovꞌvoo
-nnwꞌwnn oowꞌwoo
-nnxꞌxnn ooxꞌxoo
-nnyꞌynn ooyꞌyoo
-nnzꞌznn oozꞌzoo
-nnrꞌnn oorꞌoo
-nnkꞌnn ookꞌoo
-nnʌꞌnn ooʌꞌoo
-nngꞌnn oogꞌoo
-nncꞌnn oocꞌoo
-nnꞌfnn ooꞌfoo
-nnꞌꞌnn ooꞌꞌoo
-nnʘꞌʘnn ooʘꞌʘoo
-nnɣꞌɣnn ooɣꞌɣoo
-nnʔꞌʔnn ooʔꞌʔoo
-nnʕꞌʕnn ooʕꞌʕoo
-nnχꞌχnn ooχꞌχoo
-nnoħonn oooħooo
-nnıħınn ooıħıoo
-nnaħann ooaħaoo
-nnfħfnn oofħfoo
-nniħinn ooiħioo
-nnlħlnn oolħloo
-nnsħsnn oosħsoo
-nntħtnn ootħtoo
-nnuħunn oouħuoo
-nnvħvnn oovħvoo
-nnwħwnn oowħwoo
-nnxħxnn ooxħxoo
-nnyħynn ooyħyoo
-nnzħznn oozħzoo
-nnʌħnn ooʌħoo
-nnħħnn ooħħoo
-nnrħnn oorħoo
-nngħnn oogħoo
-nncħnn oocħoo
-nnkħnn ookħoo
-nnħfnn ooħfoo
-nnʘħʘnn ooʘħʘoo
-nnɣħɣnn ooɣħɣoo
-nnʔħʔnn ooʔħʔoo
-nnʕħʕnn ooʕħʕoo
-nnχħnn ooχħχoo
-nnꞌħꞌnn ooꞌħꞌoo
-nnıʉınn ooıʉıoo
-nnaʉann ooaʉaoo
-nnfʉfnn oofʉfoo
-nniʉinn ooiʉioo
-nnlʉlnn oolʉloo
-nnsʉsnn oosʉsoo
-nntʉtnn ootʉtoo
-nnvʉvnn oovʉvoo
-nnwʉwnn oowʉwoo
-nnxʉxnn ooxʉxoo
-nnyʉynn ooyʉyoo
-nnzʉznn oozʉzoo
-nngʉnn oogʉoo
-nnrʉnn oorʉoo
-nncʉnn oocʉoo
-nnʉfnn ooʉfoo
-nnʌʉnn ooʌʉoo
-nnkʉnn ookʉoo
-nnʘʉʘnn ooʘʉʘoo
-nnɣʉɣnn ooɣʉɣoo
-nnʔʉʔnn ooʔʉʔoo
-nnʕʉʕnn ooʕʉʕoo
-nnχʉχnn ooχʉχoo
-nnꞌʉꞌnn ooꞌʉꞌoo
-nnħʉħnn ooħʉħoo
-nnoƚonn oooƚooo
-nnıƚınn ooıƚıoo
-nnaƚann ooaƚaoo
-nnfƚfnn oofƚfoo
-nniƚinn ooiƚioo
-nnlƚlnn oolƚloo
-nnsƚsnn oosƚsoo
-nntƚtnn ootƚtoo
-nnuƚunn oouƚuoo
-nnvƚvnn oovƚvoo
-nnwƚwnn oowƚwoo
-nnxƚxnn ooxƚxoo
-nnyƚynn ooyƚyoo
-nnzƚznn oozƚzoo
-nnƚfnn ooƚfoo
-nnrƚnn oorƚoo
-nnƚƚnn ooƚƚoo
-nncƚnn oocƚoo
-nnkƚnn ookƚoo
-nnʌƚnn ooʌƚoo
-nngƚnn oogƚoo
-nnʘƚʘnn ooʘƚʘoo
-nnɣƚɣnn ooɣƚɣoo
-nnʔƚʔnn ooʔƚʔoo
-nnʕƚʕnn ooʕƚʕoo
-nnχƚχnn ooχƚχoo
-nnꞌƚꞌnn ooꞌƚꞌoo
-nnħƚħnn ooħƚħoo
-nnʉƚʉnn ooʉƚʉoo
-nnľınn ooľıoo
-nnľvnn ooľvoo
-nnľxnn ooľxoo
-nnľsnn ooľsoo
-nnľfnn ooľfoo
-nnľznn ooľzoo
-nnľynn ooľyoo
-nnľann ooľaoo
-nnľwnn ooľwoo
-nnľinn ooľioo
-nnľonn ooľooo
-nnľtnn ooľtoo
-nnľlnn ooľloo
-nnľunn ooľuoo
-nnľʘnn ooľʘoo
-nnľɣnn ooľɣoo
-nnľʔnn ooľʔoo
-nnľʕnn ooľʕoo
-nnľχnn ooľχoo
-nnľꞌnn ooľꞌoo
-nnľħnn ooľħoo
-nnľʉnn ooľʉoo
-nnľƚnn ooľƚoo
-nnɗwnn ooɗwoo
-nnɗonn ooɗooo
-nnɗınn ooɗıoo
-nnɗsnn ooɗsoo
-nnɗlnn ooɗloo
-nnɗann ooɗaoo
-nnɗznn ooɗzoo
-nnɗinn ooɗioo
-nnɗfnn ooɗfoo
-nnɗunn ooɗuoo
-nnɗvnn ooɗvoo
-nnɗxnn ooɗxoo
-nnɗtnn ooɗtoo
-nnɗynn ooɗyoo
-nnɗʘnn ooɗʘoo
-nnɗɣnn ooɗɣoo
-nnɗʔnn ooɗʔoo
-nnɗʕnn ooɗʕoo
-nnɗχnn ooɗχoo
-nnɗꞌnn ooɗꞌoo
-nnɗħnn ooɗħoo
-nnɗʉnn ooɗʉoo
-nɗɾƚnn ooɗƚoo
-nntƛnn ootƛoo
-nniƛnn ooiƛoo
-nnzƛnn oozƛoo
-nnıƛnn ooıƛoo
-nnnƛnn oonƛoo
-nnxƛnn ooxƛoo
-nnsƛnn oosƛoo
-nncƛnn oocƛoo
-nnoƛnn oooƛoo
-nnaƛnn ooaƛoo
-nnvƛnn oovƛoo
-nnlƛnn oolƛoo
-nnuƛnn oouƛoo
-nnfƛnn oofƛoo
-nnyƛnn ooyƛoo
-nnʌƛnn ooʌƛoo
-nngƛnn oogƛoo
-nnkƛnn ookƛoo
-nʌʃƛnn oorƛoo
-nnwƛnn oowƛoo
-nnʘƛnn ooʘƛoo
-nnɣƛnn ooɣƛoo
-nnʔƛnn ooʔƛoo
-nnʕƛnn ooʕƛoo
-nnχƛnn ooχƛoo
-nnꞌƛnn ooꞌƛoo
-nnħƛnn ooħƛoo
-nnʉƛnn ooʉƛoo
-nnƚƛnn ooƚƛoo
-nnľƛnn ooľƛoo
-nnɗƛnn ooɗƛoo
-nnaßnn ooaßoo
-nnvßnn oovßoo
-nnzßnn oozßoo
-nncßnn oocßoo
-nnyßnn ooyßoo
-nnxßnn ooxßoo
-nnoßnn oooßoo
-nnıßnn ooıßoo
-nngßnn oogßoo
-nnwßnn oowßoo
-nnißnn ooißoo
-nntßnn ootßoo
-nnlßnn oolßoo
-nnkßnn ookßoo
-nnʌßnn ooʌßoo
-nnnßnn oonßoo
-nnrßnn oorßoo
-nnfßnn oofßoo
-nnußnn ooußoo
-nnsßnn oosßoo
-nnʘßnn ooʘßoo
-nnɣßnn ooɣßoo
-nnʔßnn ooʔßoo
-nnʕßnn ooʕßoo
-nnχßnn ooχßoo
-nnꞌßnn ooꞌßoo
-nnħßnn ooħßoo
-nnʉßnn ooʉßoo
-nnƚßnn ooƚßoo
-nnľßnn ooľßoo
-nnɗßnn ooɗßoo
-nnꞵunn ooꞵuoo
-nnꞵtnn ooꞵtoo
-nnꞵwnn ooꞵwoo
-nnꞵznn ooꞵzoo
-nnꞵfnn ooꞵfoo
-nnꞵxnn ooꞵxoo
-nnꞵinn ooꞵioo
-nnꞵsnn ooꞵsoo
-nnꞵonn ooꞵooo
-nnꞵlnn ooꞵloo
-nnꞵynn ooꞵyoo
-nnꞵann ooꞵaoo
-nnꞵınn ooꞵıoo
-nnꞵvnn ooꞵvoo
-nnꞵʘnn ooꞵʘoo
-nnꞵɣnn ooꞵɣoo
-nnꞵʔnn ooꞵʔoo
-nnꞵʕnn ooꞵʕoo
-nnꞵꞌnn ooꞵꞌoo
-nnꞵħnn ooꞵħoo
-nnꞵʉnn ooꞵʉoo
-nnꞵƚnn ooꞵƚoo
-nnꞵƛnn ooꞵƛoo
-nnꞵßnn ooꞵßoo
-nnlɔnn oolɔoo
-nnfɔnn oofɔoo
-nnkɔnn ookɔoo
-nnxɔnn ooxɔoo
-nnyɔnn ooyɔoo
-nnrɔnn oorɔoo
-nnuɔnn oouɔoo
-nnwɔnn oowɔoo
-nnzɔnn oozɔoo
-nnnɔnn oonɔoo
-nniɔnn ooiɔoo
-nnaɔnn ooaɔoo
-nnʌɔnn ooʌɔoo
-nncɔnn oocɔoo
-nnıɔnn ooıɔoo
-nntɔnn ootɔoo
-nnoɔnn oooɔoo
-nnsɔnn oosɔoo
-nngɔnn oogɔoo
-nnvɔnn oovɔoo
-nnʘɔnn ooʘɔoo
-nnɣɔnn ooɣɔoo
-nnʔɔnn ooʔɔoo
-nnʕɔnn ooʕɔoo
-nnχɔnn ooχɔoo
-nnꞌɔnn ooꞌɔoo
-nnħɔnn ooħɔoo
-nnʉɔnn ooʉɔoo
-nnƚɔnn ooƚɔoo
-nnľɔnn ooľɔoo
-nnɗɔnn ooɗɔoo
-nnꞵɔnn ooꞵɔoo
-nnuʃnn oouʃoo
-nncʃnn oocʃoo
-nnvʃnn oovʃoo
-nnaʃnn ooaʃoo
-nniʃnn ooiʃoo
-nnfʃnn oofʃoo
-nnsʃnn oosʃoo
-nnoʃnn oooʃoo
-nntʃnn ootʃoo
-nnyʃnn ooyʃoo
-nnkʃnn ookʃoo
-nnlʃnn oolʃoo
-nnxʃnn ooxʃoo
-nngʃnn oogʃoo
-nnzʃnn oozʃoo
-nnıʃnn ooıʃoo
-nnrʃnn oorʃoo
-nnʌʃnn ooʌʃoo
-nnnʃnn oonʃoo
-nnwʃnn oowʃoo
-nnʘʃnn ooʘʃoo
-nnɣʃnn ooɣʃoo
-nnʔʃnn ooʔʃoo
-nnʕʃnn ooʕʃoo
-nnχʃnn ooχʃoo
-nnꞌʃnn ooꞌʃoo
-nnħʃnn ooħʃoo
-nnʉʃnn ooʉʃoo
-nnƚʃnn ooƚʃoo
-nnľʃnn ooľʃoo
-nnɗʃnn ooɗʃoo
-nnꞵʃnn ooꞵʃoo
-nnⱳinn ooⱳioo
-nnⱳınn ooⱳıoo
-nnⱳonn ooⱳooo
-nnⱳunn ooⱳuoo
-nnⱳsnn ooⱳsoo
-nnⱳynn ooⱳyoo
-nnⱳvnn ooⱳvoo
-nnⱳxnn ooⱳxoo
-nnⱳwnn ooⱳwoo
-nnⱳtnn ooⱳtoo
-nnⱳznn ooⱳzoo
-nnⱳfnn ooⱳfoo
-nnⱳann ooⱳaoo
-nnⱳlnn ooⱳloo
-nnⱳʘnn ooⱳʘoo
-nnⱳɣnn ooⱳɣoo
-nnⱳʔnn ooⱳʔoo
-nnⱳʕnn ooⱳʕoo
-nnⱳχnn ooⱳχoo
-nnⱳꞌnn ooⱳꞌoo
-nnⱳħnn ooⱳħoo
-nnⱳʉnn ooⱳʉoo
-nnⱳƚnn ooⱳƚoo
-nnⱳƛnn ooⱳƛoo
-nnⱳßnn ooⱳßoo
-nnⱳɔnn ooⱳɔoo
-nnⱳʃnn ooⱳʃoo
-nnnɂnn oonɂoo
-nnlɂnn oolɂoo
-nnaɂnn ooaɂoo
-nnzɂnn oozɂoo
-nngɂnn oogɂoo
-nnyɂnn ooyɂoo
-nnwɂnn oowɂoo
-nnuɂnn oouɂoo
-nnvɂnn oovɂoo
-nntɂnn ootɂoo
-nnıɂnn ooıɂoo
-nniɂnn ooiɂoo
-nnsɂnn oosɂoo
-nnxɂnn ooxɂoo
-nnoɂnn oooɂoo
-nnkɂnn ookɂoo
-nnrɂnn oorɂoo
-nnfɂnn oofɂoo
-nnʌɂnn ooʌɂoo
-nnʘɂnn ooʘɂoo
-nnɣɂnn ooɣɂoo
-nnʔɂnn ooʔɂoo
-nnʕɂnn ooʕɂoo
-nnχɂnn ooχɂoo
-nnꞌɂnn ooꞌɂoo
-nnħɂnn ooħɂoo
-nnʉɂnn ooʉɂoo
-nnƚɂnn ooƚɂoo
-nnľɂnn ooľɂoo
-nnɗɂnn ooɗɂoo
-nnꞵɂnn ooꞵɂoo
-nnⱳɂnn ooⱳɂoo
-nnkɾnn ookɾoo
-nnsɾnn oosɾoo
-nnnɾnn oonɾoo
-nnlɾnn oolɾoo
-nnzɾnn oozɾoo
-nniɾnn ooiɾoo
-nnvɾnn oovɾoo
-nncɾnn oocɾoo
-nnrɾnn oorɾoo
-nnaɾnn ooaɾoo
-nnuɾnn oouɾoo
-nnxɾnn ooxɾoo
-nnfɾnn oofɾoo
-nnyɾnn ooyɾoo
-nnʌɾnn ooʌɾoo
-nngɾnn oogɾoo
-nnıɾnn ooıɾoo
-nnwɾnn oowɾoo
-nntɾnn ootɾoo
-nnoɾnn oooɾoo
-nnʘɾnn ooʘɾoo
-nnɣɾnn ooɣɾoo
-nnʔɾnn ooʔɾoo
-nnʕɾnn ooʕɾoo
-nnχɾnn ooχɾoo
-nnꞌɾnn ooꞌɾoo
-nnħɾnn ooħɾoo
-nnʉɾnn ooʉɾoo
-nnƚɾnn ooƚɾoo
-nnľɾnn ooľɾoo
-nnɗɾnn ooɗɾoo
-nnꞵɾnn ooꞵɾoo
-nnⱳɾnn ooⱳɾoo",
-"Aannon
-Abnnon
-Afnnon
-Agnnon
-Ainnon
-Aınnon
-Alnnon
-Aƚnnon
-Annnon
-Aonnon
-Asnnon
-Atnnon
-Aunnon
-Avnnon
-Awnnon
-Axnnon
-Aynnon
-Aznnon
-Aßnnon
-Aħnnon
-Aƛnnon
-Aɂnnon
-Aɔnnon
-Aɛnnon
-Aɣnnon
-Aɤnnon
-Aɾnnon
-Aʃnnon
-Aʌnnon
-Aʔnnon
-Aʕnnon
-Aχnnon
-Aᵽnnon
-Bannon
-Bbnnon
-Bfnnon
-Bgnnon
-Binnon
-Bınnon
-Blnnon
-Bƚnnon
-Bnnnon
-Bonnon
-Bsnnon
-Btnnon
-Bunnon
-Bvnnon
-Bwnnon
-Bxnnon
-Bynnon
-Bznnon
-Bßnnon
-Bħnnon
-Bƛnnon
-Bɂnnon
-Bɔnnon
-Bɛnnon
-Bɣnnon
-Bɤnnon
-Bɾnnon
-Bʃnnon
-Bʌnnon
-Bʔnnon
-Bʕnnon
-Bχnnon
-Bᵽnnon
-Cannon
-Cbnnon
-Cfnnon
-Cgnnon
-Cinnon
-Cınnon
-Clnnon
-Cƚnnon
-Cnnnon
-Connon
-Csnnon
-Ctnnon
-Cunnon
-Cvnnon
-Cwnnon
-Cxnnon
-Cynnon
-Cznnon
-Cßnnon
-Cħnnon
-Cƛnnon
-Cɂnnon
-Cɔnnon
-Cɛnnon
-Cɣnnon
-Cɤnnon
-Cɾnnon
-Cʃnnon
-Cʌnnon
-Cʔnnon
-Cʕnnon
-Cχnnon
-Cᵽnnon
-Eannon
-Ebnnon
-Efnnon
-Egnnon
-Einnon
-Eınnon
-Elnnon
-Eƚnnon
-Ennnon
-Eonnon
-Esnnon
-Etnnon
-Eunnon
-Evnnon
-Ewnnon
-Exnnon
-Eynnon
-Eznnon
-Eßnnon
-Eħnnon
-Eƛnnon
-Eɂnnon
-Eɔnnon
-Eɛnnon
-Eɣnnon
-Eɤnnon
-Eɾnnon
-Eʃnnon
-Eʌnnon
-Eʔnnon
-Eʕnnon
-Eχnnon
-Eᵽnnon
-Fannon
-Fbnnon
-Ffnnon
-Fgnnon
-Finnon
-Fınnon
-Flnnon
-Fƚnnon
-Fnnnon
-Fonnon
-Fsnnon
-Ftnnon
-Funnon
-Fvnnon
-Fwnnon
-Fxnnon
-Fynnon
-Fznnon
-Fßnnon
-Fħnnon
-Fƛnnon
-Fɂnnon
-Fɔnnon
-Fɛnnon
-Fɣnnon
-Fɤnnon
-Fɾnnon
-Fʃnnon
-Fʌnnon
-Fʔnnon
-Fʕnnon
-Fχnnon
-Fᵽnnon
-Gannon
-Gbnnon
-Gfnnon
-Ggnnon
-Ginnon
-Gınnon
-Glnnon
-Gƚnnon
-Gnnnon
-Gonnon
-Gsnnon
-Gtnnon
-Gunnon
-Gvnnon
-Gwnnon
-Gxnnon
-Gynnon
-Gznnon
-Gßnnon
-Għnnon
-Gƛnnon
-Gɂnnon
-Gɔnnon
-Gɛnnon
-Gɣnnon
-Gɤnnon
-Gɾnnon
-Gʃnnon
-Gʌnnon
-Gʔnnon
-Gʕnnon
-Gχnnon
-Gᵽnnon
-Hannon
-Hbnnon
-Hfnnon
-Hgnnon
-Hinnon
-Hınnon
-Hlnnon
-Hƚnnon
-Hnnnon
-Honnon
-Hsnnon
-Htnnon
-Hunnon
-Hvnnon
-Hwnnon
-Hxnnon
-Hynnon
-Hznnon
-Hßnnon
-Hħnnon
-Hƛnnon
-Hɂnnon
-Hɔnnon
-Hɛnnon
-Hɣnnon
-Hɤnnon
-Hɾnnon
-Hʃnnon
-Hʌnnon
-Hʔnnon
-Hʕnnon
-Hχnnon
-Hᵽnnon
-Iannon
-Ibnnon
-Ifnnon
-Ignnon
-Iinnon
-Iınnon
-Ilnnon
-Iƚnnon
-Innnon
-Ionnon
-Isnnon
-Itnnon
-Iunnon
-Ivnnon
-Iwnnon
-Ixnnon
-Iynnon
-Iznnon
-Ißnnon
-Iħnnon
-Iƛnnon
-Iɂnnon
-Iɔnnon
-Iɛnnon
-Iɣnnon
-Iɤnnon
-Iɾnnon
-Iʃnnon
-Iʌnnon
-Iʔnnon
-Iʕnnon
-Iχnnon
-Iᵽnnon
-Kannon
-Kbnnon
-Kfnnon
-Kgnnon
-Kinnon
-Kınnon
-Klnnon
-Kƚnnon
-Knnnon
-Konnon
-Ksnnon
-Ktnnon
-Kunnon
-Kvnnon
-Kwnnon
-Kxnnon
-Kynnon
-Kznnon
-Kßnnon
-Kħnnon
-Kƛnnon
-Kɂnnon
-Kɔnnon
-Kɛnnon
-Kɣnnon
-Kɤnnon
-Kɾnnon
-Kʃnnon
-Kʌnnon
-Kʔnnon
-Kʕnnon
-Kχnnon
-Kᵽnnon
-Lannon
-Lbnnon
-Lfnnon
-Lgnnon
-Linnon
-Lınnon
-Llnnon
-Lƚnnon
-Lnnnon
-Lonnon
-Lsnnon
-Ltnnon
-Lunnon
-Lvnnon
-Lwnnon
-Lxnnon
-Lynnon
-Lznnon
-Lßnnon
-Lħnnon
-Lƛnnon
-Lɂnnon
-Lɔnnon
-Lɛnnon
-Lɣnnon
-Lɤnnon
-Lɾnnon
-Lʃnnon
-Lʌnnon
-Lʔnnon
-Lʕnnon
-Lχnnon
-Lᵽnnon
-Oannon
-Obnnon
-Ofnnon
-Ognnon
-Oinnon
-Oınnon
-Olnnon
-Oƚnnon
-Onnnon
-Oonnon
-Osnnon
-Otnnon
-Ounnon
-Ovnnon
-Ownnon
-Oxnnon
-Oynnon
-Oznnon
-Oßnnon
-Oħnnon
-Oƛnnon
-Oɂnnon
-Oɔnnon
-Oɛnnon
-Oɣnnon
-Oɤnnon
-Oɾnnon
-Oʃnnon
-Oʌnnon
-Oʔnnon
-Oʕnnon
-Oχnnon
-Oᵽnnon
-Pannon
-Pbnnon
-Pfnnon
-Pgnnon
-Pinnon
-Pınnon
-Plnnon
-Pƚnnon
-Pnnnon
-Ponnon
-Psnnon
-Ptnnon
-Punnon
-Pvnnon
-Pwnnon
-Pxnnon
-Pynnon
-Pznnon
-Pßnnon
-Pħnnon
-Pƛnnon
-Pɂnnon
-Pɔnnon
-Pɛnnon
-Pɣnnon
-Pɤnnon
-Pɾnnon
-Pʃnnon
-Pʌnnon
-Pʔnnon
-Pʕnnon
-Pχnnon
-Pᵽnnon
-Rannon
-Rbnnon
-Rfnnon
-Rgnnon
-Rinnon
-Rınnon
-Rlnnon
-Rƚnnon
-Rnnnon
-Ronnon
-Rsnnon
-Rtnnon
-Runnon
-Rvnnon
-Rwnnon
-Rxnnon
-Rynnon
-Rznnon
-Rßnnon
-Rħnnon
-Rƛnnon
-Rɂnnon
-Rɔnnon
-Rɛnnon
-Rɣnnon
-Rɤnnon
-Rɾnnon
-Rʃnnon
-Rʌnnon
-Rʔnnon
-Rʕnnon
-Rχnnon
-Rᵽnnon
-Sannon
-Sbnnon
-Sfnnon
-Sgnnon
-Sinnon
-Sınnon
-Slnnon
-Sƚnnon
-Snnnon
-Sonnon
-Ssnnon
-Stnnon
-Sunnon
-Svnnon
-Swnnon
-Sxnnon
-Synnon
-Sznnon
-Sßnnon
-Sħnnon
-Sƛnnon
-Sɂnnon
-Sɔnnon
-Sɛnnon
-Sɣnnon
-Sɤnnon
-Sɾnnon
-Sʃnnon
-Sʌnnon
-Sʔnnon
-Sʕnnon
-Sχnnon
-Sᵽnnon
-Tannon
-Tbnnon
-Tfnnon
-Tgnnon
-Tinnon
-Tınnon
-Tlnnon
-Tƚnnon
-Tnnnon
-Tonnon
-Tsnnon
-Ttnnon
-Tunnon
-Tvnnon
-Twnnon
-Txnnon
-Tynnon
-Tznnon
-Tßnnon
-Tħnnon
-Tƛnnon
-Tɂnnon
-Tɔnnon
-Tɛnnon
-Tɣnnon
-Tɤnnon
-Tɾnnon
-Tʃnnon
-Tʌnnon
-Tʔnnon
-Tʕnnon
-Tχnnon
-Tᵽnnon
-Uannon
-Ubnnon
-Ufnnon
-Ugnnon
-Uinnon
-Uınnon
-Ulnnon
-Uƚnnon
-Unnnon
-Uonnon
-Usnnon
-Utnnon
-Uunnon
-Uvnnon
-Uwnnon
-Uxnnon
-Uynnon
-Uznnon
-Ußnnon
-Uħnnon
-Uƛnnon
-Uɂnnon
-Uɔnnon
-Uɛnnon
-Uɣnnon
-Uɤnnon
-Uɾnnon
-Uʃnnon
-Uʌnnon
-Uʔnnon
-Uʕnnon
-Uχnnon
-Uᵽnnon
-Vannon
-Vbnnon
-Vfnnon
-Vgnnon
-Vinnon
-Vınnon
-Vlnnon
-Vƚnnon
-Vnnnon
-Vonnon
-Vsnnon
-Vtnnon
-Vunnon
-Vvnnon
-Vwnnon
-Vxnnon
-Vynnon
-Vznnon
-Vßnnon
-Vħnnon
-Vƛnnon
-Vɂnnon
-Vɔnnon
-Vɛnnon
-Vɣnnon
-Vɤnnon
-Vɾnnon
-Vʃnnon
-Vʌnnon
-Vʔnnon
-Vʕnnon
-Vχnnon
-Vᵽnnon
-Wannon
-Wbnnon
-Wfnnon
-Wgnnon
-Winnon
-Wınnon
-Wlnnon
-Wƚnnon
-Wnnnon
-Wonnon
-Wsnnon
-Wtnnon
-Wunnon
-Wvnnon
-Wwnnon
-Wxnnon
-Wynnon
-Wznnon
-Wßnnon
-Wħnnon
-Wƛnnon
-Wɂnnon
-Wɔnnon
-Wɛnnon
-Wɣnnon
-Wɤnnon
-Wɾnnon
-Wʃnnon
-Wʌnnon
-Wʔnnon
-Wʕnnon
-Wχnnon
-Wᵽnnon
-Xannon
-Xbnnon
-Xfnnon
-Xgnnon
-Xinnon
-Xınnon
-Xlnnon
-Xƚnnon
-Xnnnon
-Xonnon
-Xsnnon
-Xtnnon
-Xunnon
-Xvnnon
-Xwnnon
-Xxnnon
-Xynnon
-Xznnon
-Xßnnon
-Xħnnon
-Xƛnnon
-Xɂnnon
-Xɔnnon
-Xɛnnon
-Xɣnnon
-Xɤnnon
-Xɾnnon
-Xʃnnon
-Xʌnnon
-Xʔnnon
-Xʕnnon
-Xχnnon
-Xᵽnnon
-Yannon
-Ybnnon
-Yfnnon
-Ygnnon
-Yinnon
-Yınnon
-Ylnnon
-Yƚnnon
-Ynnnon
-Yonnon
-Ysnnon
-Ytnnon
-Yunnon
-Yvnnon
-Ywnnon
-Yxnnon
-Yynnon
-Yznnon
-Yßnnon
-Yħnnon
-Yƛnnon
-Yɂnnon
-Yɔnnon
-Yɛnnon
-Yɣnnon
-Yɤnnon
-Yɾnnon
-Yʃnnon
-Yʌnnon
-Yʔnnon
-Yʕnnon
-Yχnnon
-Yᵽnnon
-Zannon
-Zbnnon
-Zfnnon
-Zgnnon
-Zinnon
-Zınnon
-Zlnnon
-Zƚnnon
-Znnnon
-Zonnon
-Zsnnon
-Ztnnon
-Zunnon
-Zvnnon
-Zwnnon
-Zxnnon
-Zynnon
-Zznnon
-Zßnnon
-Zħnnon
-Zƛnnon
-Zɂnnon
-Zɔnnon
-Zɛnnon
-Zɣnnon
-Zɤnnon
-Zɾnnon
-Zʃnnon
-Zʌnnon
-Zʔnnon
-Zʕnnon
-Zχnnon
-Zᵽnnon
-Þannon
-Þbnnon
-Þfnnon
-Þgnnon
-Þinnon
-Þınnon
-Þlnnon
-Þƚnnon
-Þnnnon
-Þonnon
-Þsnnon
-Þtnnon
-Þunnon
-Þvnnon
-Þwnnon
-Þxnnon
-Þynnon
-Þznnon
-Þßnnon
-Þħnnon
-Þƛnnon
-Þɂnnon
-Þɔnnon
-Þɛnnon
-Þɣnnon
-Þɤnnon
-Þɾnnon
-Þʃnnon
-Þʌnnon
-Þʔnnon
-Þʕnnon
-Þχnnon
-Þᵽnnon
-Ŋannon
-Ŋbnnon
-Ŋfnnon
-Ŋgnnon
-Ŋinnon
-Ŋınnon
-Ŋlnnon
-Ŋƚnnon
-Ŋnnnon
-Ŋonnon
-Ŋsnnon
-Ŋtnnon
-Ŋunnon
-Ŋvnnon
-Ŋwnnon
-Ŋxnnon
-Ŋynnon
-Ŋznnon
-Ŋßnnon
-Ŋħnnon
-Ŋƛnnon
-Ŋɂnnon
-Ŋɔnnon
-Ŋɛnnon
-Ŋɣnnon
-Ŋɤnnon
-Ŋɾnnon
-Ŋʃnnon
-Ŋʌnnon
-Ŋʔnnon
-Ŋʕnnon
-Ŋχnnon
-Ŋᵽnnon
-Ƙannon
-Ƙbnnon
-Ƙfnnon
-Ƙgnnon
-Ƙinnon
-Ƙınnon
-Ƙlnnon
-Ƙƚnnon
-Ƙnnnon
-Ƙonnon
-Ƙsnnon
-Ƙtnnon
-Ƙunnon
-Ƙvnnon
-Ƙwnnon
-Ƙxnnon
-Ƙynnon
-Ƙznnon
-Ƙßnnon
-Ƙħnnon
-Ƙƛnnon
-Ƙɂnnon
-Ƙɔnnon
-Ƙɛnnon
-Ƙɣnnon
-Ƙɤnnon
-Ƙɾnnon
-Ƙʃnnon
-Ƙʌnnon
-Ƙʔnnon
-Ƙʕnnon
-Ƙχnnon
-Ƙᵽnnon
-Ʃannon
-Ʃbnnon
-Ʃfnnon
-Ʃgnnon
-Ʃinnon
-Ʃınnon
-Ʃlnnon
-Ʃƚnnon
-Ʃnnnon
-Ʃonnon
-Ʃsnnon
-Ʃtnnon
-Ʃunnon
-Ʃvnnon
-Ʃwnnon
-Ʃxnnon
-Ʃynnon
-Ʃznnon
-Ʃßnnon
-Ʃħnnon
-Ʃƛnnon
-Ʃɂnnon
-Ʃɔnnon
-Ʃɛnnon
-Ʃɣnnon
-Ʃɤnnon
-Ʃɾnnon
-Ʃʃnnon
-Ʃʌnnon
-Ʃʔnnon
-Ʃʕnnon
-Ʃχnnon
-Ʃᵽnnon
-Ʒannon
-Ʒbnnon
-Ʒfnnon
-Ʒgnnon
-Ʒinnon
-Ʒınnon
-Ʒlnnon
-Ʒƚnnon
-Ʒnnnon
-Ʒonnon
-Ʒsnnon
-Ʒtnnon
-Ʒunnon
-Ʒvnnon
-Ʒwnnon
-Ʒxnnon
-Ʒynnon
-Ʒznnon
-Ʒßnnon
-Ʒħnnon
-Ʒƛnnon
-Ʒɂnnon
-Ʒɔnnon
-Ʒɛnnon
-Ʒɣnnon
-Ʒɤnnon
-Ʒɾnnon
-Ʒʃnnon
-Ʒʌnnon
-Ʒʔnnon
-Ʒʕnnon
-Ʒχnnon
-Ʒᵽnnon
-Ƹannon
-Ƹbnnon
-Ƹfnnon
-Ƹgnnon
-Ƹinnon
-Ƹınnon
-Ƹlnnon
-Ƹƚnnon
-Ƹnnnon
-Ƹonnon
-Ƹsnnon
-Ƹtnnon
-Ƹunnon
-Ƹvnnon
-Ƹwnnon
-Ƹxnnon
-Ƹynnon
-Ƹznnon
-Ƹßnnon
-Ƹħnnon
-Ƹƛnnon
-Ƹɂnnon
-Ƹɔnnon
-Ƹɛnnon
-Ƹɣnnon
-Ƹɤnnon
-Ƹɾnnon
-Ƹʃnnon
-Ƹʌnnon
-Ƹʔnnon
-Ƹʕnnon
-Ƹχnnon
-Ƹᵽnnon
-Ɂannon
-Ɂbnnon
-Ɂfnnon
-Ɂgnnon
-Ɂinnon
-Ɂınnon
-Ɂlnnon
-Ɂƚnnon
-Ɂnnnon
-Ɂonnon
-Ɂsnnon
-Ɂtnnon
-Ɂunnon
-Ɂvnnon
-Ɂwnnon
-Ɂxnnon
-Ɂynnon
-Ɂznnon
-Ɂßnnon
-Ɂħnnon
-Ɂƛnnon
-Ɂɂnnon
-Ɂɔnnon
-Ɂɛnnon
-Ɂɣnnon
-Ɂɤnnon
-Ɂɾnnon
-Ɂʃnnon
-Ɂʌnnon
-Ɂʔnnon
-Ɂʕnnon
-Ɂχnnon
-Ɂᵽnnon
-Ʉannon
-Ʉbnnon
-Ʉfnnon
-Ʉgnnon
-Ʉinnon
-Ʉınnon
-Ʉlnnon
-Ʉƚnnon
-Ʉnnnon
-Ʉonnon
-Ʉsnnon
-Ʉtnnon
-Ʉunnon
-Ʉvnnon
-Ʉwnnon
-Ʉxnnon
-Ʉynnon
-Ʉznnon
-Ʉßnnon
-Ʉħnnon
-Ʉƛnnon
-Ʉɂnnon
-Ʉɔnnon
-Ʉɛnnon
-Ʉɣnnon
-Ʉɤnnon
-Ʉɾnnon
-Ʉʃnnon
-Ʉʌnnon
-Ʉʔnnon
-Ʉʕnnon
-Ʉχnnon
-Ʉᵽnnon
-Χannon
-Χbnnon
-Χfnnon
-Χgnnon
-Χinnon
-Χınnon
-Χlnnon
-Χƚnnon
-Χnnnon
-Χonnon
-Χsnnon
-Χtnnon
-Χunnon
-Χvnnon
-Χwnnon
-Χxnnon
-Χynnon
-Χznnon
-Χßnnon
-Χħnnon
-Χƛnnon
-Χɂnnon
-Χɔnnon
-Χɛnnon
-Χɣnnon
-Χɤnnon
-Χɾnnon
-Χʃnnon
-Χʌnnon
-Χʔnnon
-Χʕnnon
-Χχnnon
-Χᵽnnon
-Ⱳannon
-Ⱳbnnon
-Ⱳfnnon
-Ⱳgnnon
-Ⱳinnon
-Ⱳınnon
-Ⱳlnnon
-Ⱳƚnnon
-Ⱳnnnon
-Ⱳonnon
-Ⱳsnnon
-Ⱳtnnon
-Ⱳunnon
-Ⱳvnnon
-Ⱳwnnon
-Ⱳxnnon
-Ⱳynnon
-Ⱳznnon
-Ⱳßnnon
-Ⱳħnnon
-Ⱳƛnnon
-Ⱳɂnnon
-Ⱳɔnnon
-Ⱳɛnnon
-Ⱳɣnnon
-Ⱳɤnnon
-Ⱳɾnnon
-Ⱳʃnnon
-Ⱳʌnnon
-Ⱳʔnnon
-Ⱳʕnnon
-Ⱳχnnon
-Ⱳᵽnnon
-Ꞌannon
-Ꞌbnnon
-Ꞌfnnon
-Ꞌgnnon
-Ꞌinnon
-Ꞌınnon
-Ꞌlnnon
-Ꞌƚnnon
-Ꞌnnnon
-Ꞌonnon
-Ꞌsnnon
-Ꞌtnnon
-Ꞌunnon
-Ꞌvnnon
-Ꞌwnnon
-Ꞌxnnon
-Ꞌynnon
-Ꞌznnon
-Ꞌßnnon
-Ꞌħnnon
-Ꞌƛnnon
-Ꞌɂnnon
-Ꞌɔnnon
-Ꞌɛnnon
-Ꞌɣnnon
-Ꞌɤnnon
-Ꞌɾnnon
-Ꞌʃnnon
-Ꞌʌnnon
-Ꞌʔnnon
-Ꞌʕnnon
-Ꞌχnnon
-Ꞌᵽnnon
-Ʝannon
-Ʝbnnon
-Ʝfnnon
-Ʝgnnon
-Ʝinnon
-Ʝınnon
-Ʝlnnon
-Ʝƚnnon
-Ʝnnnon
-Ʝonnon
-Ʝsnnon
-Ʝtnnon
-Ʝunnon
-Ʝvnnon
-Ʝwnnon
-Ʝxnnon
-Ʝynnon
-Ʝznnon
-Ʝßnnon
-Ʝħnnon
-Ʝƛnnon
-Ʝɂnnon
-Ʝɔnnon
-Ʝɛnnon
-Ʝɣnnon
-Ʝɤnnon
-Ʝɾnnon
-Ʝʃnnon
-Ʝʌnnon
-Ʝʔnnon
-Ʝʕnnon
-Ʝχnnon
-Ʝᵽnnon
-Ɤannon
-Ɤbnnon
-Ɤfnnon
-Ɤgnnon
-Ɤinnon
-Ɤınnon
-Ɤlnnon
-Ɤƚnnon
-Ɤnnnon
-Ɤonnon
-Ɤsnnon
-Ɤtnnon
-Ɤunnon
-Ɤvnnon
-Ɤwnnon
-Ɤxnnon
-Ɤynnon
-Ɤznnon
-Ɤßnnon
-Ɤħnnon
-Ɤƛnnon
-Ɤɂnnon
-Ɤɔnnon
-Ɤɛnnon
-Ɤɣnnon
-Ɤɤnnon
-Ɤɾnnon
-Ɤʃnnon
-Ɤʌnnon
-Ɤʔnnon
-Ɤʕnnon
-Ɤχnnon
-Ɤᵽnnon",
-"HHAÆHH OOAÆOO
-HHBÆHH OOBÆOO
-HHCÆHH OOCÆOO
-HHEÆHH OOEÆOO
-HHFÆHH OOFÆOO
-HHGÆHH OOGÆOO
-HHHÆHH OOHÆOO
-HHIÆHH OOIÆOO
-HHKÆHH OOKÆOO
-HHLÆHH OOLÆOO
-HHOÆHH OOOÆOO
-HHPÆHH OOPÆOO
-HHRÆHH OORÆOO
-HHSÆHH OOSÆOO
-HHTÆHH OOTÆOO
-HHUÆHH OOUÆOO
-HHVÆHH OOVÆOO
-HHWÆHH OOWÆOO
-HHXÆHH OOXÆOO
-HHYÆHH OOYÆOO
-HHZÆHH OOZÆOO
-HHÞÆHH OOÞÆOO
-HHĦÆHH OOĦÆOO
-HHŊÆHH OOŊÆOO
-HHƘÆHH OOƘÆOO
-HHƳÆHH OOƳÆOO
-HHƸÆHH OOƸÆOO
-HHǤÆHH OOǤÆOO
-HHɁÆHH OOɁÆOO
-HHƗÆHH OOƗÆOO
-HHƩÆHH OOƩÆOO
-HHɄÆHH OOɄÆOO
-HHƷÆHH OOƷÆOO
-HHꞲÆHH OOꞲÆOO
-HHꞋÆHH OOꞋÆOO
-HHꞨÆHH OOꞨÆOOAWHꞳÆHH OOꞳÆOO",
-"HHAtx⁰HH OO*A*OOt
-HH*H*HH OO*H*OO
-HH*I*HH OO*I*OO
-HH*JHH OO*JOO
-HH*O*HH OO*O*OO
-HH*S*HH OO*S*OO
-HH*T*HH OO*T*OO
-HH*U*HH OO*U*OO
-HH*V*HH OO*V*OO
-HH*W*HH OO*W*OO
-HH*X*HH OO*X*OO
-HH*Y*HH OO*Y*OO
-HH*Z*HH OO*Z*OO
-HH*ÆHH OO*ÆOO
-HH*ƁHH OO*ƁOO
-HH*ƆHH OO*ƆOO
-HH*ƎHH OO*ƎOO
-HH*ƐHH OO*ƐOO
-HH*Ʃ*HH OO*Ʃ*OO
-HH*Ʒ*HH OO*Ʒ*OO
-HH*Ƹ*HH OO*Ƹ*OO
-HH*Ɂ*HH OO*Ɂ*OO
-HH*ȽHH OO*ȽOO
-HH*ɃHH OO*ɃOO
-HH*Χ*HH OO*Χ*OO
-HH*ẞHH OO*ẞOO
-HH*Ꞌ*HH OO*Ꞌ*OO
-HH*ꞍHH OO*ꞍOO
-HH*Ɤ*HH OO*Ɤ*OO
-HHB*HH OOB*OO
-HHC*HH OOC*OO
-HHE*HH OOE*OO
-HHF*HH OOF*OO
-HHG*HH OOG*OO
-HHK*HH OOK*OO
-HHL*HH OOL*OO
-HHP*HH OOP*OO
-HHR*HH OOR*OO
-HHÞ*HH OOÞ*OO
-HHŊ*HH OOŊ*OO
-HHƘ*HH OOƘ*OO
-HHɄ*HH OOɄ*OO
-HHⱲ*HH OOⱲ*OO
-HHꞲ*HH OOꞲ*OO",
-"HH//H//HH
-HH//O//HH OO//O//OO
-HH//A//HH OO//A//OO
-HH//H//HH OO//H//OO
-HH//I//HH OO//I//OO
-HH//JHH OO//JOO
-HH//S//HH OO//S//OO
-HH//T//HH OO//T//OO
-HH//U//HH OO//U//OO
-HH//V//HH OO//V//OO
-HH//W//HH OO//W//OO
-HH//X//HH OO//X//OO
-HH//Y//HH OO//Y//OO
-HH//Z//HH OO//Z//OO
-HH//ÆHH OO//ÆOO
-HH//ĦHH OO//ĦOO
-HH//Ɓ//HH OO//ƁOO
-HHC//ƆHH OOC//ƆOO
-HHE//ƎHH OOE//ƎOO
-HH//Ɛ//HH OO//Ɛ//OO
-HH//Ʃ//HH OO//Ʃ//OO
-HH//Ʒ//HH OO//Ʒ//OO
-HH//Ƹ//HH OO//Ƹ//OO
-HH//Ħ//HH OO//ȽOO
-HH//Ɂ//HH OO//Ɂ//OO
-HH//ɃHH OO//ɃOO
-HH//Χ//HH OO//Χ//OO
-HH//ẞHH OO//ẞOO
-HH//Ꞌ//HH OO//Ꞌ//OO
-HH//ꞍHH OO//ꞍOO
-HH//Ɤ//HH OO//Ɤ//OO
-HH//U//HH OO//Ʉ//OO
-HHB//HH OOB//OO
-HHF//HH OOF//OO
-HHG//HH OOG//OO
-HHK//HH OOK//OO
-HHL//HH OOL//OO
-HHP//HH OOP//OO
-HHR//HH OOR//OO
-HHÞ//HH OOÞ//OO
-HHĦ//HH OOĦ//OO
-HHŊ//HH OOŊ//OO
-HHƘ//HH OOƘ//OO
-HH//Ʉ//HH OO//Ʉ//OO
-HHⱲ//HH OOⱲ//OO
-HHꞲ//HH OOꞲ//OO
-",
-"nonnƹAʒnnon
-nonnBʒnnon
-nonnCʒnnon
-nonnEʒnnon
-nonnFʒnnon
-nonnGʒnnon
-nonnHʒnnon
-nonnƹIʒnnon
-nonnKʒnnon
-nonnLʒnnon
-nonnƹOʒnnon
-nonnPʒnnon
-nonnRʒnnon
-nonnSʒnnon
-nonnƹTʒnnon
-nonnƹUʒnnon
-nonnƹVʒnnon
-nonnƹWʒnnon
-nonnƹXʒnnon
-nonnƹYʒnnon
-nonnZʒnnon
-nonnÞʒnnon
-nonnĦʒnnon
-nonnŊʒnnon
-nonnƘnnaʒnnon
-nonnƹƩʒnnon
-nonnƹƷʒnnon
-nonnƸʒnnon
-nonnƹɁʒnnon
-nonnɄʒnnon
-nonnƹΧʒnnon
-nonnƹⱲʒnnon
-nonnƹꞋʒnnon
-nonnꞲʒnnon
-nonnƹꟋʒ
-nonnʒAƹnnon
-nonnʒHnnon
-nonnʒIƹnnon
-nonnʒJnnon
-nonnʒOƹnnon
-nonnʒSnnon
-nonnʒTƹnnon
-nonnʒUƹnnon
-nonnʒVƹnnon
-nonnʒWƹnnon
-nonnʒXƹnnon
-nonnʒYƹnnon
-nonnʒZnnon
-nonnʒÆnnon
-nonnʒĦnnon
-nonnʒƁnnon
-nonnʒƆnnon
-nonnʒƎnnon
-nonnʒƐnnon
-nonnʒƩƹnnon
-nonnʒƷnnon
-nonnʒƸnnon
-nonnʒȽnnon
-nonnʒɃnnon
-nonnʒΧƹnnon
-nonnʒẞnnon
-nonnʒꞋƹnnon
-nonnʒꞍnnon
-nonnʒꟋƹnnoAƖ
-nonnʒAƹnnon
-nonnBƹnnon
-nonnCƹnnon
-nonnEƹnnon
-nonnFƹnnon
-nonnGƹnnon
-nonnHƹnnon
-nonnʒIƹnnon
-nonnKƹnnon
-nonnLƹnnon
-nonnʒOƹnnon
-nonnPƹnnon
-nonnRƹnnon
-nonnSƹnnon
-nonnʒTƹnnon
-nonnʒUƹnnon
-nonnʒVƹnnon
-nonnʒWƹnnon
-nonnʒXƹnnon
-nonnʒYƹnnon
-nonnZƹnnon
-nonnÞƹnnon
-nonnĦƹnnon
-nonnŊƹnnon
-nonnƘƹnnon
-nonnʒƩƹnnon
-nonnʒƷƹnnon
-nonnƸƹnnon
-nonnʒɁƹnnon
-nonnɄƹnnon
-nonnʒΧƹnnon
-nonnʒⱲƹnnon
-nonnʒꞋƹnnon
-nonnꞲƹnnon
-nonnʒꟋƹ
-nonnƹAʒnnon
-nonnƹHnnon
-nonnƹIʒnnon
-nonnƹJnnon
-nonnƹOʒnnon
-nonnƹSnnon
-nonnƹTʒnnon
-nonnƹUʒnnon
-nonnƹVʒnnon
-nonnƹWʒnnon
-nonnƹXʒnnon
-nonnƹYʒnnon
-nonnƹZnnon
-nonnƹÆnnon
-nonnƹĦnnon
-nonnƹƁnnon
-nonnƹƆnnon
-nonnƹƎnnon
-nonnƹƐnnon
-nonnƹƩʒnnon
-nonnƹƷnnon
-nonnƹƸnnon
-nonnƹȽnnon
-nonnƹɃnnon
-nonnƹΧʒnnon
-nonnƹẞnnon
-nonnƹꞋʒnnon
-nonnƹꞍnnon
-nonnƹꟋʒnnon",
-"nnaƹnn ooaƹoo
-nncƹnn oocƹoo
-nndƹnn oodƹoo
-nneƹnn ooeƹoo
-nnfƹnn oofƹoo
-nngƹnn oogƹoo
-nniƹnn ooiƹoo
-nnkƹnn ookƹoo
-nnlƹnn oolƹoo
-nnnƹnn oonƹoo
-nnoƹnn oooƹoo
-nnrƹnn oorƹoo
-nnsƹnn oosƹoo
-nntƹnn ootƹoo
-nnuƹnn oouƹoo
-nnvƹnn oovƹoo
-nnwƹnn oowƹoo
-nnxƹnn ooxƹoo
-nnyƹnn ooyƹoo
-nnzƹnn oozƹoo
-nnďƹnn ooďƹoo
-nnđƹnn oođƹoo
-nnıƹnn ooıƹoo
-nnľƹnn ooľƹoo
-nnƚƹnn ooƚƹoo
-nnɗƹnn ooɗƹoo
-nnɣƹnn ooɣƹoo
-nnɤƹnn ooɤƹoo
-nnʉƹnn ooʉƹoo
-nnʌƹnn ooʌƹoo
-nnʔƹnn ooʔƹoo
-nnʕƹnn ooʕƹoo
-nnχƹnn ooχƹoo
-nnⱳƹnn ooⱳƹoo
-nnꞵƹƹann ooꞵƹƹaoo
-nnƹbnn ooƹboo
-nnƹfnn ooƹfoo
-nnƹgnn ooƹgoo
-nnƹinn ooƹioo
-nnƹlnn ooƹloo
-nnƹnnn ooƹnoo
-nnƹonn ooƹooo
-nnƹsnn ooƹsoo
-nnƹtnn ooƹtoo
-nnƹunn ooƹuoo
-nnƹvnn ooƹvoo
-nnƹwnn ooƹwoo
-nnƹxnn ooƹxoo
-nnƹynn ooƹyoo
-nnƹznn ooƹzoo
-nnƹßnn ooƹßoo
-nnƹħnn ooƹħoo
-nnƹınn ooƹıoo
-nnƹƚnn ooƹƚoo
-nnƹƛnn ooƹƛoo
-nnƹɂnn ooƹɂoo
-nnƹɔnn ooƹɔoo
-nnƹɛnn ooƹɛoo
-nnƹɣnn ooƹɣoo
-nnƹɤnn ooƹɤoo
-nnƹɾnn ooƹɾoo
-nnƹʃnn ooƹʃoo
-nnƹʌnn ooƹʌoo
-nnƹʔnn ooƹʔoo
-nnƹʕnn ooƹʕoo
-nnƹχnn ooƹχoo
-nnƹᵽnn ooƹᵽoo
-
-nnaʒnn ooaʒoo
-nncʒnn oocʒoo
-nndʒnn oodʒoo
-nneʒnn ooeʒoo
-nnfʒnn oofʒoo
-nngʒnn oogʒoo
-nniʒnn ooiʒoo
-nnkʒnn ookʒoo
-nnlʒnn oolʒoo
-nnnʒnn oonʒoo
-nnoʒnn oooʒoo
-nnrʒnn oorʒoo
-nnsʒnn oosʒoo
-nntʒnn ootʒoo
-nnuʒnn oouʒoo
-nnvʒnn oovʒoo
-nnwʒnn oowʒoo
-nnxʒnn ooxʒoo
-nnyʒnn ooyʒoo
-nnzʒnn oozʒoo
-nnďʒnn ooďʒoo
-nnđʒnn oođʒoo
-nnıʒnn ooıʒoo
-nnľʒnn ooľʒoo
-nnƚʒnn ooƚʒoo
-nnɗʒnn ooɗʒoo
-nnɣʒnn ooɣʒoo
-nnɤʒnn ooɤʒoo
-nnʉʒnn ooʉʒoo
-nnʌʒnn ooʌʒoo
-nnʔʒnn ooʔʒoo
-nnʕʒnn ooʕʒoo
-nnχʒnn ooχʒoo
-nnⱳʒnn ooⱳʒoo
-nnꞵʒʒann ooꞵʒʒaoo
-nnʒbnn ooʒboo
-nnʒfnn ooʒfoo
-nnʒgnn ooʒgoo
-nnʒinn ooʒioo
-nnʒlnn ooʒloo
-nnʒnnn ooʒnoo
-nnʒonn ooʒooo
-nnʒsnn ooʒsoo
-nnʒtnn ooʒtoo
-nnʒunn ooʒuoo
-nnʒvnn ooʒvoo
-nnʒwnn ooʒwoo
-nnʒxnn ooʒxoo
-nnʒynn ooʒyoo
-nnʒznn ooʒzoo
-nnʒßnn ooʒßoo
-nnʒħnn ooʒħoo
-nnʒınn ooʒıoo
-nnʒƚnn ooʒƚoo
-nnʒƛnn ooʒƛoo
-nnʒɂnn ooʒɂoo
-nnʒɔnn ooʒɔoo
-nnʒɛnn ooʒɛoo
-nnʒɣnn ooʒɣoo
-nnʒɤnn ooʒɤoo
-nnʒɾnn ooʒɾoo
-nnʒʃnn ooʒʃoo
-nnʒʌnn ooʒʌoo
-nnʒʔnn ooʒʔoo
-nnʒʕnn ooʒʕoo
-nnʒχnn ooʒχoo
-nnʒᵽnn ooʒᵽoo",
-"nonnAʒnnon
-nonnBʒnnon
-nonnCʒnnon
-nonnEʒnnon
-nonnFʒnnon
-nonnGʒnnon
-nonnHʒnnon
-nonnIʒnnon
-nonnKʒnnon
-nonnLʒnnon
-nonnOʒnnon
-nonnPʒnnon
-nonnRʒnnon
-nonnSʒnnon
-nonnTʒnnon
-nonnUʒnnon
-nonnVʒnnon
-nonnWʒnnon
-nonnXʒnnon
-nonnYʒnnon
-nonnZʒnnon
-nonnÞʒnnon
-nonnĦʒnnon
-nonnŊʒnnon
-nonnƘʒnnon
-nonnƩʒnnon
-nonnƷʒnnon
-nonnƸʒnnon
-nonnɁʒnnon
-nonnɄʒnnon
-nonnΧʒnnon
-nonnⱲʒnnon
-nonnꞋʒnnon
-nonnꞲʒnnon
-nonnꟋʒʒAnnon
-nonnʒHnnon
-nonnʒInnon
-nonnʒJnnon
-nonnʒOnnon
-nonnʒSnnon
-nonnʒTnnon
-nonnʒUnnon
-nonnʒVnnon
-nonnʒWnnon
-nonnʒXnnon
-nonnʒYnnon
-nonnʒZnnon
-nonnʒÆnnon
-nonnʒĦnnon
-nonnʒƁnnon
-nonnʒƆnnon
-nonnʒƎnnon
-nonnʒƐnnon
-nonnʒƩnnon
-nonnʒƷnnon
-nonnʒƸnnon
-nonnʒȽnnon
-nonnʒɃnnon
-nonnʒΧnnon
-nonnʒẞnnon
-nonnʒꞋnnon
-nonnʒꞍnnon
-nonnʒꟋnnon",
-"/one.numr/three.numr/seven.numr ⁄/two.dnom/eight.dnom/nine.dnom",
-"nnL0nn
-nnɑᵒnn",
-"/zero.dnom",
-"A faster way to copy SQLite databases between computers
-The Brief Origins of May Day
-How to vibe code for free: Running Qwen3 on your Mac, using MLX
-Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival
-Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral
-Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape
-Office is too slow, so Microsoft is making it load at Windows startup
-108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring
-Mercury: Commercial-scale diffusion language model
-Apple violated antitrust ruling, judge finds
-Pwning the Ladybird Browser
-Espressif's ESP32-C5 Is Now in Mass Production
-The one interview question that will protect you from North Korean fake workers
-International Workers' Day
-Linux Kernel Exploitation: Attack of the Vsock
-All four major web browsers are about to lose 80% of their funding
-How the US defense secretary circumvents official DoD communications equipment
-Game preservationists say Switch2 GameKey Cards are disheartening but inevitable
-Zhaoxin's KX-7000
-Xiaomi MiMo Reasoning Model
-I created Perfect Wiki and reached $250k in annual revenue without investors
-Home washing machines fail to remove important pathogens from textiles
-I Found Malware in a BeamNG Mod
-Someone at YouTube needs glasses
-If you're in the market for a $1,900 color E Ink monitor, one of them exists now
-Reversible computing with mechanical links and pivots
-GroMo (YC W21) Is Hiring
-The Secret Services' involvement in the making of The Line of Fire (1993) [pdf]
-NotebookLM Audio Overviews are now available in over 50 languages
-You Wouldn't Download a Hacker News",
-"0123456789"
+"ĄĄĘĮOǪǬŲaąę/idotless_ogonek įǫǭų"
 );
 axes = (
 {
@@ -3138,7 +534,7 @@ glyphs = (
 glyphname = A;
 kernLeft = UC_A;
 kernRight = UC_A;
-lastChange = "2025-05-02 11:05:23 +0000";
+lastChange = "2025-05-09 10:01:07 +0000";
 layers = (
 {
 anchors = (
@@ -3152,7 +548,7 @@ pos = (638,0);
 },
 {
 name = ogonek;
-pos = (638,0);
+pos = (637,0);
 },
 {
 name = top;
@@ -4295,7 +1691,7 @@ color = 5;
 glyphname = Aogonek;
 kernLeft = UC_A;
 kernRight = UC_A;
-lastChange = "2025-04-23 09:44:32 +0000";
+lastChange = "2025-05-09 10:01:04 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -4304,7 +1700,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (388,0);
+pos = (387,0);
 ref = ogonekcomb;
 }
 );
@@ -5632,7 +3028,7 @@ color = 5;
 glyphname = Bhook;
 kernLeft = UC_HookLeft;
 kernRight = UC_B;
-lastChange = "2025-05-01 09:23:03 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -7375,7 +4771,7 @@ color = 5;
 glyphname = Chook;
 kernLeft = UC_Round;
 kernRight = UC_CHook;
-lastChange = "2025-04-30 16:47:45 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -7910,7 +5306,7 @@ color = 5;
 glyphname = Dhook;
 kernLeft = UC_HookLeft;
 kernRight = UC_Round;
-lastChange = "2025-04-30 16:48:52 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -12554,7 +9950,7 @@ color = 5;
 glyphname = Ghook;
 kernLeft = UC_Round;
 kernRight = UC_CHook;
-lastChange = "2025-04-30 16:49:00 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -13711,7 +11107,7 @@ color = 5;
 glyphname = Hhook;
 kernLeft = UC_HookLeft;
 kernRight = UC_Stem;
-lastChange = "2025-04-25 16:16:11 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -19004,7 +16400,7 @@ unicode = 330;
 glyphname = O;
 kernLeft = UC_Round;
 kernRight = UC_Round;
-lastChange = "2025-05-01 08:23:17 +0000";
+lastChange = "2025-05-09 10:01:36 +0000";
 layers = (
 {
 anchors = (
@@ -19018,7 +16414,7 @@ pos = (361,0);
 },
 {
 name = ogonek;
-pos = (419,0);
+pos = (418,0);
 },
 {
 name = top;
@@ -21591,7 +18987,7 @@ color = 5;
 glyphname = Oogonek;
 kernLeft = UC_Round;
 kernRight = UC_Round;
-lastChange = "2025-04-23 09:49:11 +0000";
+lastChange = "2025-05-09 10:01:36 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -21600,7 +18996,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (169,0);
+pos = (168,0);
 ref = ogonekcomb;
 }
 );
@@ -21627,7 +19023,7 @@ color = 5;
 glyphname = Oogonekmacron;
 kernLeft = UC_Round;
 kernRight = UC_Round;
-lastChange = "2025-04-23 09:49:11 +0000";
+lastChange = "2025-05-09 10:01:36 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -21636,7 +19032,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (169,0);
+pos = (168,0);
 ref = ogonekcomb;
 },
 {
@@ -22757,7 +20153,7 @@ color = 5;
 glyphname = Phook;
 kernLeft = UC_HookLeft;
 kernRight = UC_P;
-lastChange = "2025-04-30 14:25:57 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -33672,7 +31068,7 @@ unicode = 618;
 glyphname = a;
 kernLeft = lc_a;
 kernRight = lc_a;
-lastChange = "2025-05-01 12:13:40 +0000";
+lastChange = "2025-05-09 10:02:05 +0000";
 layers = (
 {
 anchors = (
@@ -33686,7 +31082,7 @@ pos = (260,0);
 },
 {
 name = ogonek;
-pos = (446,0);
+pos = (447,0);
 },
 {
 name = top;
@@ -33797,7 +31193,7 @@ pos = (245,0);
 },
 {
 name = ogonek;
-pos = (423,0);
+pos = (422,0);
 },
 {
 name = top;
@@ -36135,7 +33531,7 @@ color = 5;
 glyphname = aogonek;
 kernLeft = lc_a;
 kernRight = lc_a;
-lastChange = "2025-04-23 11:43:18 +0000";
+lastChange = "2025-05-09 10:02:05 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -36144,7 +33540,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (196,0);
+pos = (197,0);
 ref = ogonekcomb;
 }
 );
@@ -36157,7 +33553,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (138,0);
+pos = (137,0);
 ref = ogonekcomb;
 scale = (1.0095,1.0095);
 }
@@ -39383,7 +36779,7 @@ color = 5;
 glyphname = chook;
 kernLeft = lc_Round;
 kernRight = lc_c;
-lastChange = "2025-04-30 16:25:27 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -39746,7 +37142,7 @@ color = 5;
 glyphname = dcaron;
 kernLeft = lc_Round;
 kernRight = lc_Caron;
-lastChange = "2025-04-29 14:43:21 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "41EDA971-A137-4972-81AF-7929AB7CAABF";
@@ -39768,10 +37164,10 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(838,731,ls),
-(839,748,o),
-(837,762,o),
-(834,772,c)
+(906,731,ls),
+(907,748,o),
+(905,762,o),
+(902,772,c)
 );
 }
 );
@@ -41065,7 +38461,7 @@ unicode = 598;
 glyphname = eth;
 kernLeft = lc_Round;
 kernRight = UC_Round;
-lastChange = "2025-04-30 16:05:34 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -48298,7 +45694,7 @@ unicode = 289;
 glyphname = ghook;
 kernLeft = lc_g;
 kernRight = lc_LongHook;
-lastChange = "2025-04-23 12:10:14 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -48411,104 +45807,104 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(445,-212,o),
-(523,-142,o),
-(523,-32,cs),
-(523,59,o),
-(474,96,o),
-(377,96,cs),
-(337,96,o),
-(224,87,o),
-(185,87,cs),
-(135,87,o),
-(115,96,o),
-(115,121,cs),
-(115,147,o),
-(145,159,o),
-(178,159,c),
-(105,189,l),
-(64,172,o),
-(33,142,o),
-(33,94,cs),
-(33,18,o),
-(95,-6,o),
-(192,-6,cs),
-(227,-6,o),
-(343,3,o),
-(383,3,cs),
-(412,3,o),
-(420,-3,o),
-(420,-15,cs),
-(420,-33,o),
-(402,-48,o),
-(236,-48,cs),
-(139,-48,o),
-(81,-34,o),
-(44,-9,c),
-(8,-133,l),
-(34,-180,o),
-(105,-212,o),
-(255,-212,cs)
+(446,-212,o),
+(524,-142,o),
+(524,-32,cs),
+(524,59,o),
+(475,96,o),
+(378,96,cs),
+(338,96,o),
+(225,87,o),
+(186,87,cs),
+(136,87,o),
+(116,96,o),
+(116,121,cs),
+(116,147,o),
+(146,159,o),
+(179,159,c),
+(106,189,l),
+(65,172,o),
+(34,142,o),
+(34,94,cs),
+(34,18,o),
+(96,-6,o),
+(193,-6,cs),
+(228,-6,o),
+(344,3,o),
+(384,3,cs),
+(413,3,o),
+(421,-3,o),
+(421,-15,cs),
+(421,-33,o),
+(403,-48,o),
+(237,-48,cs),
+(140,-48,o),
+(82,-34,o),
+(45,-9,c),
+(9,-133,l),
+(35,-180,o),
+(106,-212,o),
+(256,-212,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(358,129,o),
-(484,168,o),
-(484,337,c),
-(413,470,l),
-(391,534,o),
-(329,572,o),
-(250,572,cs),
-(125,572,o),
-(28,515,o),
-(28,337,cs),
-(28,168,o),
-(151,129,o),
-(254,129,cs)
+(359,129,o),
+(485,168,o),
+(485,337,c),
+(414,470,l),
+(392,534,o),
+(330,572,o),
+(251,572,cs),
+(126,572,o),
+(29,515,o),
+(29,337,cs),
+(29,168,o),
+(152,129,o),
+(255,129,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(132,271,o),
-(107,290,o),
-(107,311,cs),
-(107,336,o),
-(135,352,o),
-(257,352,cs),
-(382,352,o),
-(405,335,o),
-(405,311,cs),
-(405,287,o),
-(385,271,o),
-(257,271,cs)
+(133,271,o),
+(108,290,o),
+(108,311,cs),
+(108,336,o),
+(136,352,o),
+(258,352,cs),
+(383,352,o),
+(406,335,o),
+(406,311,cs),
+(406,287,o),
+(386,271,o),
+(258,271,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(484,337,l),
-(484,534,ls),
-(484,592,o),
-(509,615,o),
-(562,615,cs),
-(589,615,o),
-(610,611,o),
-(628,600,c),
-(665,728,l),
-(641,768,o),
-(604,788,o),
-(547,788,cs),
-(455,788,o),
-(392,732,o),
-(392,613,cs),
-(392,408,l)
+(485,337,l),
+(485,534,ls),
+(485,592,o),
+(510,615,o),
+(563,615,cs),
+(590,615,o),
+(611,611,o),
+(629,600,c),
+(666,728,l),
+(642,768,o),
+(605,788,o),
+(548,788,cs),
+(456,788,o),
+(393,732,o),
+(393,613,cs),
+(393,408,l)
 );
 }
 );
-width = 576;
+width = 577;
 },
 {
 associatedMasterId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -49474,7 +46870,7 @@ unicode = 7713;
 glyphname = gstroke;
 kernLeft = lc_g;
 kernRight = lc_g;
-lastChange = "2025-04-23 11:51:19 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87347,7 +84743,7 @@ unicode = 189;
 {
 color = 5;
 glyphname = onethird;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87391,7 +84787,7 @@ unicode = 8531;
 {
 color = 5;
 glyphname = twothirds;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87687,7 +85083,7 @@ unicode = 8542;
 {
 color = 5;
 glyphname = zeroinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87717,7 +85113,7 @@ unicode = 8320;
 {
 color = 5;
 glyphname = oneinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87747,7 +85143,7 @@ unicode = 8321;
 {
 color = 5;
 glyphname = twoinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87777,7 +85173,7 @@ unicode = 8322;
 {
 color = 5;
 glyphname = threeinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87807,7 +85203,7 @@ unicode = 8323;
 {
 color = 5;
 glyphname = fourinferior;
-lastChange = "2025-04-25 16:16:11 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87837,7 +85233,7 @@ unicode = 8324;
 {
 color = 5;
 glyphname = fiveinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87867,7 +85263,7 @@ unicode = 8325;
 {
 color = 5;
 glyphname = sixinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87897,7 +85293,7 @@ unicode = 8326;
 {
 color = 5;
 glyphname = seveninferior;
-lastChange = "2025-04-25 16:16:11 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87927,7 +85323,7 @@ unicode = 8327;
 {
 color = 5;
 glyphname = eightinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87957,7 +85353,7 @@ unicode = 8328;
 {
 color = 5;
 glyphname = nineinferior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -87989,7 +85385,7 @@ color = 5;
 glyphname = zerosuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-02 09:51:43 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88021,7 +85417,7 @@ color = 5;
 glyphname = onesuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88053,7 +85449,7 @@ color = 5;
 glyphname = twosuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88085,7 +85481,7 @@ color = 5;
 glyphname = threesuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88117,7 +85513,7 @@ color = 5;
 glyphname = foursuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-04-29 09:39:15 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88149,7 +85545,7 @@ color = 5;
 glyphname = fivesuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88181,7 +85577,7 @@ color = 5;
 glyphname = sixsuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88213,7 +85609,7 @@ color = 5;
 glyphname = sevensuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-04-29 09:39:15 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88245,7 +85641,7 @@ color = 5;
 glyphname = eightsuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -88277,7 +85673,7 @@ color = 5;
 glyphname = ninesuperior;
 kernLeft = digit_superior;
 kernRight = digit_superior;
-lastChange = "2025-05-01 09:31:53 +0000";
+lastChange = "2025-05-09 10:18:13 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
