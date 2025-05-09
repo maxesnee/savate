@@ -332,7 +332,10 @@ sub f l by fl;
 sub f b by f_b;
 sub f h by f_h;
 sub f j by f_j;
-sub f k by f_k;";
+sub f k by f_k;
+sub florin i by florin_i;
+sub dhook i by dhook_i;
+";
 tag = liga;
 },
 {
