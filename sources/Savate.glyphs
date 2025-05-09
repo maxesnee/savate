@@ -1,6 +1,9 @@
 {
 .appVersion = "3410";
 .formatVersion = 3;
+DisplayStrings = (
+"͟"
+);
 axes = (
 {
 name = Weight;
@@ -111126,7 +111129,7 @@ unicode = 856;
 },
 {
 glyphname = doublemacronbelowcomb;
-lastChange = "2025-04-25 16:12:07 +0000";
+lastChange = "2025-05-09 10:36:46 +0000";
 layers = (
 {
 anchors = (
@@ -111138,11 +111141,13 @@ pos = (250,0);
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
 shapes = (
 {
-ref = macronbelowcomb;
-},
-{
-pos = (266,0);
-ref = macronbelowcomb;
+closed = 1;
+nodes = (
+(649,-150,l),
+(649,-107,l),
+(117,-107,l),
+(117,-150,l)
+);
 }
 );
 width = 500;
@@ -111157,11 +111162,13 @@ pos = (250,0);
 layerId = "41EDA971-A137-4972-81AF-7929AB7CAABF";
 shapes = (
 {
-ref = macronbelowcomb;
-},
-{
-pos = (304,0);
-ref = macronbelowcomb;
+closed = 1;
+nodes = (
+(706,-197,l),
+(706,-72,l),
+(98,-72,l),
+(98,-197,l)
+);
 }
 );
 width = 500;
