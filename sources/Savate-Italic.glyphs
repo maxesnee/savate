@@ -2,32 +2,7 @@
 .appVersion = "3410";
 .formatVersion = 3;
 DisplayStrings = (
-"Outward Handles:
-§
-
-Angled Handles:
-BBBɃɃɃDDƐƏƏƷƷƷƸƸƸGǤꞭꞭⱢƜƜOꞶPⱣRRSSSẞẞẞꞨꞨƬꞋaaɑɑæææꞵꞵꞵddɗɗꟈꟈꟈðeeeɛɛəəəʒʒƹƹffgʔɂǥǥꜧkkƙƙɬɬɫmɯɲooɵɵꞷppƥƥþþᵽᵽᵽqqɋɋsssꞩꞩťť/dhook_i/dhook_i/f_b/f_b/f_h/f_h/f_j/f_j/f_k/f_k ﬁﬁﬂﬂªªºᵃᵃᵉᵉᵒΧΩμμχᵋᵋ/one.osf/one.osf/three.osf/three.osf/three.osf/six.osf/six.osf/six.osf/eight.osf/eight.osf/eight.osf/nine.osf/nine.osf 11333666888999/one.dnom/three.dnom/three.dnom/five.dnom/six.dnom/six.dnom/eight.dnom/eight.dnom/nine.dnom/nine.dnom ,,!??**/questiondown.case (()){{}}‹'🥊🥊🩹🩹@@&&&§§§®®††‡‡$$₾₾₹₹₹₹^↑↗↘̋/caroncomb.alt/caroncomb.alt ̴̧̧̦̭̰̂̆̆̊̃̏̏̒/circumflexcomb.case/brevecomb.case/brevecomb.case/dblgravecomb.case/dblgravecomb.case ˀʿʿʾʾ
-
-Small Curve BBox:
-æeᵉ*🥊🥊&&&£̧̧̏̏/dblgravecomb.case/dblgravecomb.case 
-
-Almost Orthogonal Lines:
-ⱭĘƷƷƸGǤꜦĮȢꞶɊɊⱤẞẞƮŲZɑbɓðęɛƹfhꜧɦ/idotless_ogonek įkƙƞƞɽuʊʊwⱳzƶ/f_b/f_h/f_k ªᵃʰⁿᵘʷΩᵋᵋᶶ/three.osf/three.osf/three.osf/four.osf/eight.osf 1333488/three.dnom/three.dnom/four.dnom/six.dnom/eight.dnom/eight.dnom **&&†‡£>≥≤→̨̭̀̀/gravecomb.case/circumflexcomb.case 
-
-Short Line Segments:
-*
-
-Bad Outline Order:
-💥💥
-
-Bad Path Orientation:
-ɵɵᶿᶿ💥💥🩹🩹®¤¤₫₫
-
-Off-curve as start point:
-ƷƷƷƸƸƸƆƆ
-
-",
-"/_blackCircle ⓿❶❷❸❹❺❻❼❽❾"
+"Ꜧ"
 );
 axes = (
 {
@@ -9412,7 +9387,7 @@ unicode = 7716;
 glyphname = Heng;
 kernLeft = UC_Stem;
 kernRight = UC_Stem;
-lastChange = "2025-05-01 13:52:34 +0000";
+lastChange = "2025-05-09 10:34:21 +0000";
 layers = (
 {
 layerId = "79167EE4-8C29-4BCE-A9E7-C1CFC4557E33";
@@ -9450,22 +9425,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(507,-212,o),
-(569,-159,o),
-(592,-43,cs),
-(626,135,l),
-(528,133,l),
-(514,62,ls),
-(502,3,o),
-(474,-17,o),
-(428,-17,cs),
-(391,-17,o),
-(358,-6,o),
-(329,20,c),
-(259,-124,l),
-(280,-181,o),
-(329,-212,o),
-(418,-212,cs)
+(515,-212,o),
+(577,-159,o),
+(600,-43,cs),
+(634,135,l),
+(536,133,l),
+(522,62,ls),
+(510,3,o),
+(482,-17,o),
+(436,-17,cs),
+(399,-17,o),
+(366,-6,o),
+(337,20,c),
+(267,-124,l),
+(288,-181,o),
+(337,-212,o),
+(426,-212,cs)
 );
 },
 {
