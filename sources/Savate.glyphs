@@ -1,9 +1,6 @@
 {
 .appVersion = "3410";
 .formatVersion = 3;
-DisplayStrings = (
-"͟"
-);
 axes = (
 {
 name = Weight;
@@ -36,8 +33,20 @@ date = "2021-06-03 13:53:52 +0000";
 familyName = Savate;
 featurePrefixes = (
 {
+automatic = 1;
 code = "languagesystem DFLT dflt;
-languagesystem latn dflt;";
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+languagesystem latn NLD;
+";
 name = Languagesystems;
 }
 );
