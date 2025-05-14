@@ -11,7 +11,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxesnee%2Fsavate.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxesnee%2Fsavate.git%2Fgh-pages%2Fbadges%2FUniversal.json
 
-![Sample Image](documentation/image1.png)
+![Sample Image](documentation/image1.jpg)
 
 Savate is a humanist sans-serif typeface with reverse contrast. Its name, borrowed from the French martial art, reflects the typeface’s sense of motion. Its open, generous curves and assertive forms evoke wide gestures and dynamic rhythm. Designed with both flexibility and impact in mind, Savate comes in a full range of weights from Extralight to Black, with matching italics, making it well-suited for everything from bold headlines to confident, readable text.
 
