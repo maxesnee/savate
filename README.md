@@ -15,14 +15,16 @@
 
 Savate is a humanist sans-serif typeface with reverse contrast. Its name, borrowed from the French martial art, reflects the typeface’s sense of motion. Its open, generous curves and assertive forms evoke wide gestures and dynamic rhythm. Designed with both flexibility and impact in mind, Savate comes in a full range of weights from Extralight to Black, with matching italics, making it well-suited for everything from bold headlines to confident, readable text.
 
-![Sample Image](documentation/video1.mp4)
+![Sample Image](documentation/static1.png)
 
 This new release is a complete redraw of the original Savate, first published in 2016 by the We.ch collective (Max Esnée and Hadrien Bulliat) through Velvetyne. While it stays true to the spirit of the original design, every glyph has been refined to improve rhythm, structure, and overall cohesion. The family has also been significantly expanded, now offering a full palette of styles and expanded language support, including Latin Pan-African, making Savate a versatile tool for a broad range of typographic needs.
 
-![Sample Image](documentation/video2.mp4)
-![Sample Image](documentation/video5.mp4)
-![Sample Image](documentation/video4.mp4)
-![Sample Image](documentation/video3.mp4)
+![Sample Image](documentation/static2.png)
+![Sample Image](documentation/image2.png)
+![Sample Image](documentation/static3.png)
+![Sample Image](documentation/image3.png)
+![Sample Image](documentation/static4.png)
+![Sample Image](documentation/static5.png)
 
 
 
@@ -36,7 +38,7 @@ This new release is a complete redraw of the original Savate, first published in
 [Plomb Type](https://www.plombtype.com/) is an independent type foundry created by Max Esnée and [Emma Marichal](https://emmamarichal.fr/), based in Lyon, France. The foundry creates a variety of typefaces with distinct voices, and also enjoys working closely with clients on custom designs. Alongside its font catalogue, Plomb Type offers typographic advice and support for brands of all kinds.
 
 
-![Sample Image](documentation/video6.mp4)
+![Sample Image](documentation/static6.png)
 
 ## Building
 
