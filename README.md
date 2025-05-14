@@ -11,18 +11,32 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxesnee%2Fsavate.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaxesnee%2Fsavate.git%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Savate is a reverse contrast sans-serif. It is freely inspired by a hand-lettering piece found in the streets of Ivry-sur-Seine in the suburbs of Paris.
-
-Its name refers to the savate, a typically french fighting sport.
-
-Savate was originally released in 2015 at Velvetyne Type Foundry. This new version is a complete redrawing of the original. It brings overall improvement in drawing quality and spacing, and make Savate into a complete family with a weights ranging from ExtraLight to Black, with matching italics.
-
 ![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+
+Savate is a humanist sans-serif typeface with reverse contrast. Its name, borrowed from the French martial art, reflects the typeface’s sense of motion. Its open, generous curves and assertive forms evoke wide gestures and dynamic rhythm. Designed with both flexibility and impact in mind, Savate comes in a full range of weights from Extralight to Black, with matching italics, making it well-suited for everything from bold headlines to confident, readable text.
+
+![Sample Image](documentation/video1.mp4)
+
+This new release is a complete redraw of the original Savate, first published in 2016 by the We.ch collective (Max Esnée and Hadrien Bulliat) through Velvetyne. While it stays true to the spirit of the original design, every glyph has been refined to improve rhythm, structure, and overall cohesion. The family has also been significantly expanded, now offering a full palette of styles and expanded language support, including Latin Pan-African, making Savate a versatile tool for a broad range of typographic needs.
+
+![Sample Image](documentation/video2.mp4)
+![Sample Image](documentation/video5.mp4)
+![Sample Image](documentation/video4.mp4)
+![Sample Image](documentation/video3.mp4)
+
+
+
+
 
 ## About
 
-Description of you and/or organisation goes here.
+[Max Esnée](https://www.max-esnee.com/) is a typeface designer, graphic designer, and web developer. Graduating from EPSAA in 2014, he works independently, crafting visual identities and websites for a diverse range of clients. In 2019, he joined the EsadType program at Esad Amiens to further his skills in typeface design. In 2021, he released the Gamuth typeface family at Production Type. Concurrently to his profesionnal practice, he pursues various personal projects, ranging from designing new typefaces to creating web tools, such as the Stack & Justify application, launched in early 2024.
+
+
+[Plomb Type](https://www.plombtype.com/) is an independent type foundry created by Max Esnée and [Emma Marichal](https://emmamarichal.fr/), based in Lyon, France. The foundry creates a variety of typefaces with distinct voices, and also enjoys working closely with clients on custom designs. Alongside its font catalogue, Plomb Type offers typographic advice and support for brands of all kinds.
+
+
+![Sample Image](documentation/video6.mp4)
 
 ## Building
 
@@ -42,9 +56,10 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 Changelog example:
 
-**26 May 2021. Version 2.13**
+**14 May 2025. Version 2.000**
 - MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+- Pan African support added.
+- Design Space extented: ExtraLight to Black.
 
 ## License
 
