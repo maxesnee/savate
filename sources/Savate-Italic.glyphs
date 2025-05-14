@@ -1,30 +1,6 @@
 {
 .appVersion = "3410";
 .formatVersion = 3;
-DisplayStrings = (
-"Outward Handles:
-§
-
-Angled Handles:
-BBBɃɃɃDDƐƏƏƷƷƷƸƸƸGǤꞭꞭⱢƜƜOꞶPⱣRRSSSẞẞẞꞨꞨƬꞋaaɑɑæææꞵꞵꞵddɗɗꟈꟈꟈðeeeɛɛəəəʒʒƹƹffgʔɂǥǥꜧkkƙƙɬɬɫmɯɲooɵɵꞷppƥƥþþᵽᵽᵽqqɋɋsssꞩꞩťť/dhook_i/dhook_i/f_b/f_b/f_h/f_h/f_j/f_j/f_k/f_k ﬁﬁﬂﬂªªºΧΩμμχᵃᵃᵋᵋᵉᵉᵒ11333666888999❶❸❸❺❻❻❽❾/one.osf/one.osf/three.osf/three.osf/three.osf/six.osf/six.osf/six.osf/eight.osf/eight.osf/eight.osf/nine.osf/nine.osf/one.dnom/three.dnom/three.dnom/five.dnom/six.dnom/six.dnom/eight.dnom/eight.dnom/nine.dnom/nine.dnom ,,!??**/questiondown.case (()){{}}‹'🥊🥊🩹🩹@@&&&§§§®®††‡‡$$₾₾₹₹₹₹^↑↗↘̋/caroncomb.alt/caroncomb.alt ̴̧̧̦̭̰̂̆̆̊̃̏̏̒/circumflexcomb.case/brevecomb.case/brevecomb.case/dblgravecomb.case/dblgravecomb.case ˀʿʿʾʾ
-
-Small Curve BBox:
-æeᵉ*🥊🥊&&&£̧̧̏̏/dblgravecomb.case/dblgravecomb.case 
-
-Almost Orthogonal Lines:
-ⱭĘƷƷƸGǤꜦĮȢꞶɊɊⱤẞẞƮŲZɑbɓðęɛƹfhꜧɦ/idotless_ogonek įkƙƞƞɽuʊʊwⱳzƶ/f_b/f_h/f_k ªʰⁿʷΩᵃᵋᵋᶶᵘ1333488❸❸/three.osf/three.osf/three.osf/four.osf/eight.osf/three.dnom/three.dnom/four.dnom/six.dnom/eight.dnom/eight.dnom **&&†‡£>≥≤→̨̭̀̀/gravecomb.case/circumflexcomb.case 
-
-Short Line Segments:
-*
-
-Bad Path Orientation:
-ɵɵᶿᶿ🩹🩹¤¤₫₫
-
-Off-curve as start point:
-ƷƷƷƸƸƸƆƆ
-
-"
-);
 axes = (
 {
 name = Weight;

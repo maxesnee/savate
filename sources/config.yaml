@@ -5,7 +5,6 @@ axisOrder:
   - wght
   - ital
 familyName: "Savate"
-buildOTF: false
 cleanUp: true
 stat:
   Savate[wght].ttf:
